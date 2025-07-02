@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analisador de Currículos IA</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>Análise de Perfil com <span class="highlight">IA</span></h1>
+            <p class="subtitle">Compare currículos com descrições de vagas de forma inteligente e obtenha uma análise detalhada em segundos.</p>
+        </header>
+
+        <main class="card">
+            <form id="analysis-form">
+                <div class="form-grid">
+                    <div class="form-group">
+                        <label for="curriculo-pdf">Anexar Currículo (.pdf)</label>
+                        <input type="file" id="curriculo-pdf" name="arquivo_pdf" accept=".pdf" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="contexto-vaga">Descrição da Vaga</label>
+                        <textarea id="contexto-vaga" name="contexto_vaga" rows="10" placeholder="Cole aqui a descrição completa da vaga..." required></textarea>
+                    </div>
+                </div>
+                <button type="submit" id="submit-button">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 17 5-5-5-5"/></svg>
+                    Analisar Compatibilidade
+                </button>
+            </form>
+        </main>
+        
+        <div id="loading-spinner" class="hidden"></div>
+        
+        <section id="results-container" class="hidden"></section>
+    </div>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
