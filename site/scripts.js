@@ -101,8 +101,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <ul class="summary-list perguntas">${createListItems(data.perguntas_sugeridas)}</ul>
             </div>` : ''}
         `;
-
-        // Anima o círculo de score
+        
         setTimeout(() => {
             const scoreCircle = document.getElementById('score-circle');
             if (scoreCircle) {

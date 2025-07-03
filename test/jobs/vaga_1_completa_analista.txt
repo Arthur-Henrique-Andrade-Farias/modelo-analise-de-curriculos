@@ -1,0 +1,39 @@
+**Vaga: Analista de Segurança da Informação Júnior**  
+**Empresa: TechGuard Consultoria**  
+**Localização: Brasília - DF**  
+**Modalidade: Híbrido**
+
+---
+
+### Descrição da Empresa
+
+A TechGuard Consultoria é uma empresa especializada em soluções de segurança da informação, com o compromisso de proteger dados e sistemas de nossos clientes em um mundo digital em constante evolução. Com uma equipe de profissionais altamente qualificados, oferecemos consultoria, auditoria e treinamento em segurança cibernética. Nossa missão é garantir que nossos clientes operem em um ambiente seguro e conforme as melhores práticas do mercado.
+
+### Responsabilidades
+
+- Auxiliar na implementação e monitoramento de políticas de segurança da informação.
+- Identificar e analisar vulnerabilidades em sistemas e redes.
+- Conduzir auditorias de segurança e avaliações de risco.
+- Colaborar na resposta a incidentes de segurança e na execução de planos de mitigação.
+- Participar da elaboração de relatórios e documentação técnica.
+- Apoiar na conscientização e treinamento de funcionários sobre práticas de segurança.
+- Manter-se atualizado sobre as tendências e ameaças em segurança da informação.
+
+### Requisitos Essenciais
+
+- Formação em Ciência da Computação, Sistemas de Informação, Segurança da Informação ou áreas correlatas.
+- Conhecimento básico em ferramentas de segurança, como firewalls, antivírus e sistemas de detecção de intrusões.
+- Familiaridade com normas e regulamentos de segurança da informação (ISO 27001, LGPD).
+- Habilidade para trabalhar em equipe e boa comunicação.
+- Desejo de aprender e se desenvolver na área de segurança cibernética.
+
+### Diferenciais
+
+- Certificações em segurança da informação (ex: CompTIA Security+, CEH).
+- Experiência prévia em estágios ou projetos relacionados à segurança da informação.
+- Conhecimento em programação ou scripts para automação de processos de segurança.
+- Experiência com análise de logs e monitoramento de redes.
+
+---
+
+Se você é apaixonado por segurança da informação e deseja iniciar sua carreira em um ambiente dinâmico e inovador, envie seu currículo para nós! Na TechGuard Consultoria, oferecemos oportunidades de aprendizado e crescimento, além de um ambiente colaborativo e desafiador. Junte-se a nós na missão de proteger o mundo digital!

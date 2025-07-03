@@ -1,0 +1,5 @@
+Vaga: Cientista de Dados Pleno
+Empresa: Data Sul Analytics
+Localização: Florianópolis, SC
+
+Descrição: Oportunidade para trabalho 100% presencial em nosso escritório em Florianópolis. Buscamos um Cientista de Dados para trabalhar em projetos inovadores de inteligência artificial para o mercado de crédito. É necessário ter experiência com Python, bibliotecas de machine learning (Scikit-learn, TensorFlow) e SQL.

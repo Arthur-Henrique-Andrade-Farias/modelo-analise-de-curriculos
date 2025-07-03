@@ -1,0 +1,3 @@
+Vaga: Desenvolvedor Java
+Empresa: Confidencial
+Descrição: Estamos contratando um desenvolvedor Java com experiência em Spring Boot para se juntar à nossa equipe dinâmica. O candidato irá trabalhar em novos projetos e dar manutenção em sistemas legados. Envie seu currículo para mais detalhes.

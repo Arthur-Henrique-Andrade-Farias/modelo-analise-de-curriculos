@@ -1,0 +1,31 @@
+**Vaga: Engenheiro de Machine Learning Pleno**  
+**Empresa: SmartShop AI**  
+**Localização: Remoto**  
+**Modalidade: Remoto**  
+
+### Descrição da Empresa
+A SmartShop AI é uma empresa inovadora no setor de tecnologia e comércio eletrônico, dedicada a transformar a experiência de compra online por meio de inteligência artificial. Nossa missão é proporcionar soluções personalizadas que aumentem a satisfação do cliente e maximizem as vendas de nossos parceiros. Estamos em busca de um Engenheiro de Machine Learning Pleno para se juntar à nossa equipe dinâmica e contribuir para o desenvolvimento de sistemas de recomendação que impactarão positivamente o mercado.
+
+### Responsabilidades
+- Desenvolver e implementar modelos de machine learning voltados para sistemas de recomendação em e-commerce.
+- Analisar e interpretar grandes volumes de dados para extrair insights relevantes que aprimorem a experiência do usuário.
+- Colaborar com equipes de produto e engenharia para integrar soluções de machine learning nas plataformas existentes.
+- Realizar testes A/B e experimentos para avaliar a eficácia dos modelos implementados.
+- Monitorar e otimizar o desempenho dos modelos em produção, garantindo alta precisão e eficiência.
+- Participar de reuniões de equipe e contribuir para a definição de estratégias de longo prazo em inteligência artificial.
+
+### Requisitos Essenciais
+- Graduação em Ciência da Computação, Engenharia, Estatística ou áreas relacionadas.
+- Experiência comprovada em machine learning, com foco em sistemas de recomendação.
+- Proficiente em linguagens de programação como Python e R.
+- Familiaridade com bibliotecas e frameworks de machine learning (TensorFlow, PyTorch, Scikit-learn).
+- Sólidos conhecimentos em SQL e manipulação de dados.
+- Capacidade de trabalhar de forma autônoma e em equipe, com boa comunicação e habilidades analíticas.
+
+### Diferenciais
+- Experiência prévia em e-commerce ou com dados de comportamento do consumidor.
+- Conhecimento em técnicas de deep learning e processamento de linguagem natural (NLP).
+- Familiaridade com ferramentas de visualização de dados, como Tableau ou Power BI.
+- Participação em projetos open-source ou contribuições para a comunidade de machine learning.
+
+Se você é apaixonado por tecnologia e deseja fazer parte de uma equipe que está moldando o futuro do e-commerce, envie seu currículo e uma carta de apresentação para nós. Na SmartShop AI, valorizamos a diversidade e incentivamos candidatos de todas as origens a se inscreverem. Venha fazer a diferença conosco!

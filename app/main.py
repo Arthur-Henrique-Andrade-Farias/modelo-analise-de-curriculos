@@ -29,7 +29,6 @@ class Experiencia(BaseModel):
     responsabilidades: str = Field(description="Descrição das responsabilidades e conquistas")
 
 class Curriculo(BaseModel):
-    """Modelo de dados para estruturar as informações extraídas de um currículo."""
     nome: str = Field(description="Nome completo do candidato")
     email: Optional[str] = Field(description="Email de contato")
     localizacao_inferida: Optional[str] = Field(description="Cidade e Estado de residência mais provável do candidato, inferido a partir da localização da última experiência profissional ou acadêmica. Ex: 'Dourados, MS'")
@@ -40,7 +39,6 @@ class Curriculo(BaseModel):
 
 # Extração informações da vaga
 class InfoVaga(BaseModel):
-    """Modelo de dados para estruturar as informações extraídas da descrição de uma vaga."""
     cidade: Optional[str] = Field(description="Cidade onde a vaga está localizada. Ex: 'Dourados, MS'")
     modalidade: str = Field(description="Modalidade de trabalho, pode ser 'Presencial', 'Remoto' ou 'Híbrido'.")
 
@@ -73,7 +71,6 @@ def extrair_texto_de_pdf(pdf_bytes: bytes) -> str:
 llm = ChatOpenAI(model="gpt-4-turbo", temperature=0.0, api_key=OPENAI_API_KEY)
 
 def processar_curriculo(texto_curriculo: str) -> Curriculo:
-    """Usa o LLM para extrair informações estruturadas, incluindo a INFERÊNCIA da localização."""
     structured_llm_extractor = llm.with_structured_output(Curriculo)
     prompt = ChatPromptTemplate.from_messages([
         ("system", """
@@ -88,7 +85,6 @@ def processar_curriculo(texto_curriculo: str) -> Curriculo:
     return chain.invoke({"texto_curriculo": texto_curriculo})
 
 def processar_vaga(contexto_vaga: str) -> InfoVaga:
-    """NOVA FUNÇÃO: Usa o LLM para extrair a cidade e a modalidade da descrição da vaga."""
     structured_llm_vaga_extractor = llm.with_structured_output(InfoVaga)
     prompt = ChatPromptTemplate.from_messages([
         ("system", "Você é um especialista em analisar descrições de vagas. Sua tarefa é extrair a cidade e a modalidade de trabalho (Presencial, Remoto ou Híbrido) do texto a seguir."),
@@ -98,39 +94,56 @@ def processar_vaga(contexto_vaga: str) -> InfoVaga:
     return chain.invoke({"contexto_vaga": contexto_vaga})
 
 def analisar_compatibilidade(perfil: Curriculo, info_vaga: InfoVaga, contexto_vaga: str) -> AnaliseDetalhadaVaga:
-    """Usa o LLM para realizar a análise comparando dois objetos JSON estruturados."""
     structured_llm_analyzer = llm.with_structured_output(AnaliseDetalhadaVaga)
+
     analysis_prompt = ChatPromptTemplate.from_messages([
-        ("system", """
-        Você é um Tech Recruiter sênior realizando uma análise de compatibilidade. Você receberá informações estruturadas do candidato e da vaga.
-        O foco principal é a aderência técnica e de experiência.
+    ("system", """
+    Você é um Tech Recruiter sênior realizando uma análise de compatibilidade. Você receberá informações estruturadas do candidato e da vaga.
+    Sua primeira tarefa é dar uma nota de 0 a 10 para cada um dos 5 critérios de avaliação, com justificativas.
+    Sua segunda tarefa é calcular o score final ponderado seguindo regras matemáticas estritas.
 
-        **Siga esta Rubrica de Avaliação Detalhada:**
+    **1. Rubrica de Avaliação (Para as notas individuais):**
+    - **aderencia_tecnica:** Compare as habilidades técnicas ESSENCIAIS da vaga com o currículo.
+    - **compatibilidade_experiencia:** Avalie o nível e o tipo de experiência.
+    - **compatibilidade_geografica:** Siga estas regras em ordem:
+        1. Se a `modalidade` da vaga for 'Remoto' OU se a `cidade` da vaga não for especificada (null ou 'Não especificada'), a nota é **10**. Na justificativa, se a cidade não foi especificada, mencione que a localidade não foi informada e que o sistema presumiu flexibilidade.
+        2. Se a `modalidade` for 'Presencial' ou 'Híbrido' e a cidade estiver clara, compare com a localização do candidato. Se forem diferentes, a nota é 0 ou 1.
+        3. Se a localização do **candidato** for desconhecida, a nota é 5 e uma pergunta deve ser gerada para ele.
+    - **alinhamento_educacional:** Verifique a relevância da formação.
+    - **valor_diferenciais:** Pontue com base nos itens listados como 'diferenciais'.
+    
+    **2. Cálculo do Score Final Ponderado (Regras Estritas):**
+    Você DEVE calcular o `score_final_ponderado` usando a seguinte fórmula de média ponderada. Existem apenas dois cenários.
 
-        1.  **aderencia_tecnica:** (Peso Alto) Compare as habilidades técnicas ESSENCIAIS da vaga com o currículo.
-        2.  **compatibilidade_experiencia:** (Peso Alto) Avalie o nível e o tipo de experiência.
-        3.  **compatibilidade_geografica:** (Fator Eliminatório) Avalie com base nos dados estruturados. Se a modalidade da vaga for 'Remoto', a nota é 10. Se for 'Presencial' ou 'Híbrido', compare a cidade da vaga com a localização inferida do candidato. Se forem diferentes, a nota deve ser 0 ou 1, a menos que o candidato mencione disposição para se mudar. Se a localização do candidato não pôde ser inferida, a nota é 5 e uma pergunta deve ser gerada.
-        4.  **alinhamento_educacional:** (Peso Médio) Verifique a relevância da formação.
-        5.  **valor_diferenciais:** (Peso Baixo) Pontue com base nos itens listados como 'diferenciais' no texto da vaga.
-        
-        **Cálculo do Score Final Ponderado:**
-        Calcule uma nota final ponderada. A compatibilidade geográfica deve ter um impacto drástico: se a nota for baixa, o score final deve ser muito baixo.
+    **CASO 1: VAGA PRESENCIAL OU HÍBRIDA (com localidade definida):**
+    Use esta fórmula se a `modalidade` for 'Presencial' ou 'Híbrido' E a `cidade` da vaga estiver definida.
+    Os pesos são: aderencia_tecnica(3), compatibilidade_experiencia(3), compatibilidade_geografica(3), alinhamento_educacional(1), valor_diferenciais(1).
+    A soma total dos pesos é 11.
+    Fórmula: `Score = ((nota_tecnica * 3) + (nota_exp * 3) + (nota_geo * 3) + (nota_edu * 1) + (nota_dif * 1)) / 11`
 
-        Finalmente, resuma os pontos fortes, pontos de desenvolvimento e sugira perguntas.
-        """),
-        ("human", """
-        **Descrição Completa da Vaga (para contexto):**
-        {contexto_vaga}
+    **CASO 2: VAGA REMOTA OU COM LOCALIDADE INDEFINIDA:**
+    Use esta fórmula se a `modalidade` for 'Remoto' OU se a `cidade` da vaga não foi especificada.
+    Os pesos mudam: aderencia_tecnica(3), compatibilidade_experiencia(3), compatibilidade_geografica(1), alinhamento_educacional(1), valor_diferenciais(1).
+    A soma total dos pesos é 9.
+    Fórmula: `Score = ((nota_tecnica * 3) + (nota_exp * 3) + (nota_geo * 1) + (nota_edu * 1) + (nota_dif * 1)) / 9`
 
-        ---
-        **Informações Estruturadas da Vaga (JSON):**
-        {info_vaga}
+    Arredonde o resultado final para o inteiro mais próximo.
 
-        ---
-        **Perfil do Candidato (JSON extraído do currículo):**
-        {perfil_candidato}
-        """)
-    ])
+    Finalmente, resuma os pontos fortes, pontos de desenvolvimento e sugira perguntas. **Importante: Se a localidade da vaga não foi especificada, adicione uma observação em 'pontos_de_desenvolvimento' ou em 'perguntas_sugeridas' sobre a necessidade de esclarecer a localização exata e a modalidade de trabalho.**
+    """),
+    ("human", """
+    **Descrição Completa da Vaga (para contexto):**
+    {contexto_vaga}
+
+    ---
+    **Informações Estruturadas da Vaga (JSON):**
+    {info_vaga}
+
+    ---
+    **Perfil do Candidato (JSON extraído do currículo):**
+    {perfil_candidato}
+    """)
+])
     
     chain = analysis_prompt | structured_llm_analyzer
     perfil_json_str = perfil.model_dump_json(indent=2)
@@ -167,9 +180,7 @@ async def analisar_curriculo_endpoint(
     arquivo_pdf: UploadFile = File(..., description="Arquivo de currículo em formato .pdf"), 
     contexto_vaga: str = Form(..., description="Texto completo com a descrição e requisitos da vaga.")
 ):
-    """
-    Recebe um currículo em PDF e um contexto de vaga, retorna uma análise completa.
-    """
+
     if arquivo_pdf.content_type != "application/pdf":
         raise HTTPException(status_code=400, detail="O arquivo deve ser um PDF.")
     

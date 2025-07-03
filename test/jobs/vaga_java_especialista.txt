@@ -1,0 +1,16 @@
+Vaga: Especialista Backend Java
+Empresa: FutureBank
+Localização: São Paulo, SP (Modelo Híbrido)
+
+Buscamos um(a) Especialista Backend Java para se juntar à nossa equipe de Core Banking. Você será responsável por projetar e desenvolver microserviços de alta performance que são a espinha dorsal de nossos produtos.
+
+Requisitos Essenciais:
+- 5+ anos de experiência sólida com desenvolvimento Java.
+- Experiência profunda com o framework Spring Boot.
+- Conhecimento avançado de bancos de dados relacionais (PostgreSQL preferencialmente).
+- Experiência com sistemas de mensageria como Kafka ou RabbitMQ.
+- Familiaridade com ambiente cloud (AWS ou GCP).
+
+Diferenciais:
+- Inglês avançado para comunicação com equipes globais é um grande plus.
+- Experiência com liderança técnica.

@@ -1,0 +1,11 @@
+Vaga: Analista de Dados Júnior
+Empresa: Metrics Inc.
+Localização: Rio de Janeiro, RJ (Híbrido)
+
+Buscamos um Analista de Dados Júnior para integrar nosso time de Business Intelligence. O candidato ideal é curioso, analítico e tem paixão por dados.
+
+Requisitos:
+- Conhecimento sólido em SQL para extração e manipulação de dados.
+- Experiência com pelo menos uma linguagem de programação (Python ou R).
+- Familiaridade com alguma ferramenta de BI (Power BI, Tableau ou Looker).
+- Cursando ou formado em áreas de Exatas ou Tecnologia.

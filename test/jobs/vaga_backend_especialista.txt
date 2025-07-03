@@ -1,0 +1,11 @@
+Vaga: Engenheiro(a) de Backend Sênior (Python)
+Empresa: ScaleUp Performance
+Localização: Remoto
+
+Procuramos um(a) especialista em backend Python para otimizar nossa plataforma de alta concorrência. O foco é em performance, escalabilidade e arquitetura de microsserviços.
+
+Requisitos:
+- Experiência avançada com Python.
+- Experiência comprovada com frameworks assíncronos como FastAPI ou Starlette.
+- Conhecimento profundo em otimização de queries em PostgreSQL e modelagem de dados para alta performance.
+- Experiência com arquitetura orientada a eventos e mensageria (Kafka/RabbitMQ).
