@@ -1,0 +1,35 @@
+**Vaga: DevOps Pleno**  
+**Empresa: E-commerce Solutions**  
+**Localização: Barueri, SP**  
+**Modalidade: Híbrido**
+
+---
+
+### Descrição da Empresa
+A E-commerce Solutions é uma empresa líder no mercado de e-commerce, dedicada a oferecer soluções inovadoras e eficientes para nossos clientes. Com um ambiente colaborativo e dinâmico, buscamos constantemente a excelência em nossos serviços. Nossa missão é transformar a experiência de compra online, proporcionando aos nossos usuários um ambiente seguro e intuitivo. Se você é apaixonado por tecnologia e inovação, venha fazer parte do nosso time!
+
+### Responsabilidades
+- Gerenciar e otimizar a infraestrutura em nuvem utilizando AWS, garantindo alta disponibilidade e desempenho.
+- Implementar e manter ambientes de contêiner utilizando Kubernetes, promovendo a escalabilidade e eficiência dos serviços.
+- Colaborar com as equipes de desenvolvimento para automatizar processos e melhorar a integração contínua e entrega contínua (CI/CD).
+- Monitorar e resolver problemas de performance e segurança na infraestrutura.
+- Criar e manter documentação técnica relacionada aos processos e sistemas em operação.
+- Participar ativamente de reuniões de planejamento e retrospectivas, contribuindo com sugestões para melhoria contínua.
+
+### Requisitos Essenciais
+- Graduação em Ciência da Computação, Engenharia de Software ou áreas correlatas.
+- Experiência comprovada em AWS, incluindo serviços como EC2, S3, RDS e Lambda.
+- Sólidos conhecimentos em Kubernetes e orquestração de contêineres.
+- Familiaridade com ferramentas de CI/CD (Jenkins, GitLab CI, etc.).
+- Experiência em scripting (Bash, Python ou similar) para automação de tarefas.
+- Habilidade em trabalhar em equipe e se comunicar efetivamente com diferentes áreas.
+
+### Diferenciais
+- Certificações em AWS (AWS Certified DevOps Engineer, por exemplo).
+- Conhecimento em ferramentas de monitoramento e logging (Prometheus, Grafana, ELK Stack).
+- Experiência prévia em ambientes de e-commerce ou alta disponibilidade.
+- Familiaridade com metodologias ágeis (Scrum, Kanban).
+
+---
+
+Se você está pronto para enfrentar novos desafios e contribuir para o crescimento de uma empresa inovadora, envie seu currículo para [email@ecommercesolutions.com] e faça parte da nossa equipe! A E-commerce Solutions valoriza a diversidade e incentiva a candidatura de profissionais de todas as origens.

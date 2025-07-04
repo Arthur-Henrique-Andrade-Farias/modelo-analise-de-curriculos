@@ -1,0 +1,42 @@
+**Nome da Vaga:** Gerente de Engenharia de Software (Engineering Manager)
+
+**Nome da Empresa:** SoftTech Solutions
+
+**Localização:** Remoto
+
+---
+
+### Descrição da Empresa
+
+A SoftTech Solutions é uma empresa inovadora no setor de Software as a Service (SaaS), dedicada a fornecer soluções tecnológicas que transformam a maneira como as empresas operam. Com um ambiente dinâmico e colaborativo, buscamos constantemente a excelência em nossos produtos e serviços. Nossa missão é capacitar empresas a alcançarem seu máximo potencial através da tecnologia, promovendo um espaço de trabalho onde a criatividade e a inovação são valorizadas.
+
+### Responsabilidades
+
+- Liderar e gerenciar equipes de engenharia de software, promovendo uma cultura de colaboração e alta performance.
+- Planejar, executar e monitorar projetos de desenvolvimento de software, garantindo que sejam entregues dentro do prazo e atendam aos padrões de qualidade.
+- Trabalhar em estreita colaboração com equipes de produto e design para alinhar as prioridades de desenvolvimento às necessidades do cliente.
+- Fomentar um ambiente de aprendizado contínuo, promovendo o desenvolvimento profissional dos membros da equipe através de mentorias e treinamentos.
+- Implementar e otimizar processos de engenharia ágil, assegurando a eficiência e eficácia nas entregas.
+- Atuar como um líder técnico, sendo responsável por decisões arquiteturais e tecnológicas em projetos.
+- Estabelecer e monitorar métricas de desempenho, buscando constantemente melhorias na produtividade da equipe.
+
+### Requisitos Essenciais
+
+- Graduação em Ciência da Computação, Engenharia de Software ou áreas correlatas.
+- Experiência comprovada de pelo menos 5 anos em desenvolvimento de software, com pelo menos 2 anos em cargos de liderança.
+- Sólidos conhecimentos em metodologias ágeis (Scrum, Kanban, etc.) e práticas de engenharia de software.
+- Habilidade em gerenciar equipes remotas e promover um bom clima organizacional.
+- Excelentes habilidades de comunicação, tanto verbal quanto escrita, em português e inglês.
+- Experiência com tecnologias modernas de desenvolvimento de software, como microserviços, APIs RESTful e cloud computing.
+
+### Diferenciais
+
+- Experiência prévia em empresas SaaS ou startups.
+- Conhecimento em DevOps e práticas de CI/CD.
+- Familiaridade com ferramentas de gerenciamento de projetos como Jira, Trello ou Asana.
+- Certificações em gerenciamento de projetos (PMP, Scrum Master, etc.) são um plus.
+- Habilidade em análise de dados e métricas para tomada de decisões.
+
+---
+
+Se você é um líder apaixonado por tecnologia e deseja fazer parte de uma equipe inovadora que está moldando o futuro do software, envie seu currículo para nós! A SoftTech Solutions valoriza a diversidade e acredita que equipes diversificadas são essenciais para a inovação. Junte-se a nós e faça a diferença!

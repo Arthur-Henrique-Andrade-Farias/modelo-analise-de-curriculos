@@ -1,0 +1,42 @@
+**Nome da Vaga:** Consultor Funcional Salesforce
+
+**Nome da Empresa:** TechSolutions Brasil
+
+**Localização:** Remoto
+
+**Modalidade:** Remota
+
+---
+
+### Descrição da Empresa
+A TechSolutions Brasil é uma empresa líder em consultoria e implementação de soluções tecnológicas, especializada em transformar negócios através da inovação. Com um portfólio diversificado de clientes e projetos em diferentes setores, nossa missão é impulsionar a excelência operacional e a experiência do cliente por meio da adoção de tecnologias de ponta. Valorizamos o desenvolvimento contínuo de nossos colaboradores e um ambiente de trabalho colaborativo e inclusivo.
+
+### Responsabilidades
+- Realizar a análise de requisitos funcionais e técnicos em projetos de implementação do Salesforce.
+- Colaborar com equipes multidisciplinares para entender as necessidades do cliente e propor soluções personalizadas.
+- Configurar e personalizar a plataforma Salesforce de acordo com os requisitos do projeto.
+- Treinar usuários finais e stakeholders sobre as funcionalidades do Salesforce.
+- Elaborar e manter a documentação do projeto, incluindo fluxos de trabalho e especificações funcionais.
+- Participar de reuniões de acompanhamento com o cliente, garantindo a entrega de soluções dentro dos prazos estabelecidos.
+- Identificar oportunidades de melhorias contínuas e otimização dos processos de negócios.
+
+### Requisitos Essenciais
+- Formação superior em áreas relacionadas à Tecnologia da Informação, Administração ou similares.
+- Experiência comprovada como Consultor Funcional Salesforce, com pelo menos 3 anos de atuação em projetos de implementação.
+- Conhecimento profundo das funcionalidades do Salesforce, incluindo Sales Cloud, Service Cloud e Marketing Cloud.
+- Habilidade em mapear e documentar processos de negócios.
+- Excelentes habilidades de comunicação e apresentação.
+- Capacidade de trabalhar de forma autônoma e em equipe, com foco em resultados.
+
+### Diferenciais
+- Certificações Salesforce (Administrator, Sales Cloud Consultant, Service Cloud Consultant, etc.).
+- Experiência em metodologias ágeis (Scrum, Kanban).
+- Conhecimento em integração de sistemas e API's.
+- Vivência em projetos com grandes clientes de diferentes segmentos de mercado.
+- Fluência em inglês será considerada um diferencial.
+
+---
+
+Se você é apaixonado por tecnologia e deseja fazer parte de uma equipe inovadora que transforma negócios, envie seu currículo para nós! A TechSolutions Brasil valoriza a diversidade e a inclusão, e todos os candidatos qualificados serão considerados para a vaga, independentemente de raça, gênero, orientação sexual, deficiência ou qualquer outra característica. 
+
+Junte-se a nós e venha fazer a diferença!

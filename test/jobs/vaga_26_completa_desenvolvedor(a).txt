@@ -1,0 +1,40 @@
+**Vaga: Desenvolvedor(a) Elixir Pleno/Sênior**  
+**Empresa: BetTech Solutions**  
+**Localização: Remoto**  
+**Modalidade: Remota**
+
+---
+
+### Descrição da Empresa
+
+A BetTech Solutions é uma startup inovadora no setor de apostas online, dedicada a oferecer uma plataforma segura, dinâmica e de fácil utilização para nossos usuários. Com uma equipe apaixonada e diversificada, nossa missão é transformar a experiência de apostas, utilizando tecnologias de ponta e um design centrado no usuário. Estamos em busca de um(a) Desenvolvedor(a) Elixir Pleno/Sênior para se juntar à nossa equipe e contribuir para o nosso crescimento e sucesso.
+
+### Responsabilidades
+
+- Desenvolver e manter sistemas escaláveis utilizando a linguagem Elixir e o framework Phoenix.
+- Colaborar com equipes multifuncionais para planejar, projetar e implementar novas funcionalidades.
+- Realizar testes e garantir a qualidade do código por meio de práticas de desenvolvimento ágil e revisão de pares.
+- Identificar e solucionar problemas de desempenho e escalabilidade na aplicação.
+- Participar ativamente de reuniões de planejamento e retrospectivas, oferecendo insights e sugestões para melhoria contínua.
+- Contribuir para a documentação técnica e guias de uso dos sistemas desenvolvidos.
+- Acompanhar as tendências do mercado de apostas online e propor inovações que possam ser implementadas na plataforma.
+
+### Requisitos Essenciais
+
+- Experiência comprovada em desenvolvimento com Elixir e Phoenix (mínimo de 3 anos).
+- Sólidos conhecimentos em bancos de dados relacionais e NoSQL.
+- Familiaridade com práticas de DevOps e CI/CD.
+- Experiência com desenvolvimento ágil e metodologias Scrum ou Kanban.
+- Capacidade de trabalhar de forma independente e em equipe, com boa comunicação.
+- Inglês técnico para leitura e compreensão de documentação.
+
+### Diferenciais
+
+- Experiência prévia em startups ou empresas do setor de jogos e apostas.
+- Conhecimento em outras linguagens de programação como JavaScript, Ruby ou Python.
+- Familiaridade com ferramentas de monitoramento e performance, como Prometheus ou Grafana.
+- Contribuições para projetos de código aberto ou participação em comunidades de desenvolvimento.
+
+---
+
+Se você é apaixonado(a) por tecnologia e quer fazer parte de uma equipe que está revolucionando o mercado de apostas online, envie seu currículo e uma carta de apresentação para [email@bettechsolutions.com]. Estamos ansiosos para conhecer você!

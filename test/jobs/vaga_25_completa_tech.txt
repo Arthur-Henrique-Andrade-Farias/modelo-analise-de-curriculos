@@ -1,0 +1,33 @@
+**Vaga: Tech Lead de Frontend (React)**  
+**Empresa: E-Commerce Innovators**  
+**Localização: Remoto**  
+**Modalidade: Remota**  
+
+### Descrição da Empresa
+A E-Commerce Innovators é uma empresa em rápido crescimento, dedicada a transformar a experiência de compras online. Nossa missão é fornecer uma plataforma de e-commerce inovadora e intuitiva que atenda às necessidades de nossos clientes e promova o sucesso dos nossos parceiros. Com uma equipe multidisciplinar e ambientes colaborativos, buscamos profissionais apaixonados por tecnologia e inovação, prontos para fazer a diferença em um mercado em constante evolução.
+
+### Responsabilidades
+- Liderar a reescrita da nossa plataforma de e-commerce utilizando React, garantindo a melhor experiência para os usuários.
+- Coordenar uma equipe de desenvolvedores frontend, promovendo boas práticas de desenvolvimento e colaboração.
+- Colaborar com designers, gerentes de produto e outras equipes para definir soluções técnicas eficazes e eficientes.
+- Garantir a qualidade do código através de revisões regulares, testes e documentação.
+- Identificar oportunidades de melhoria e inovação na arquitetura da aplicação e nas ferramentas utilizadas.
+- Participar ativamente de reuniões de planejamento e scrum, alinhando as metas do projeto com as expectativas da empresa.
+- Mentorar e desenvolver os membros da equipe, promovendo um ambiente de aprendizado contínuo.
+
+### Requisitos Essenciais
+- Experiência sólida em desenvolvimento frontend com React e suas bibliotecas associadas (Redux, Hooks, etc.).
+- Experiência prévia em liderança técnica ou coordenação de equipes de desenvolvimento.
+- Forte conhecimento em HTML, CSS e JavaScript, com foco em melhores práticas e performance.
+- Familiaridade com ferramentas de controle de versão, como Git.
+- Habilidade em trabalhar de forma independente e em equipe, com excelente comunicação.
+- Capacidade de resolver problemas de maneira criativa e pragmática.
+
+### Diferenciais
+- Experiência em projetos de e-commerce ou plataformas digitais.
+- Conhecimento em TypeScript e testes automatizados.
+- Experiência com metodologias ágeis, como Scrum ou Kanban.
+- Contribuições para projetos open source ou participação em comunidades de desenvolvedores.
+- Interesse em novas tecnologias e tendências do mercado de frontend.
+
+Se você é um profissional apaixonado por tecnologia, que busca desafios e deseja liderar uma equipe em um projeto inovador, envie seu currículo e venha fazer parte da E-Commerce Innovators!

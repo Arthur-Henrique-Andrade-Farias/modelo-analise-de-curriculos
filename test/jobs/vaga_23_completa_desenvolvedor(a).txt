@@ -1,0 +1,43 @@
+**Nome da Vaga:** Desenvolvedor(a) WordPress
+
+**Nome da Empresa:** Agência Digital Criativa
+
+**Localização:** Remoto
+
+**Modalidade:** PJ (Pessoa Jurídica)
+
+---
+
+### Descrição da Empresa
+
+A Agência Digital Criativa é uma agência de marketing digital inovadora, focada em entregar soluções personalizadas para nossos clientes em diversas áreas, incluindo e-commerce, branding e marketing de conteúdo. Com uma equipe apaixonada e criativa, buscamos sempre a excelência em nossos serviços, utilizando as mais recentes tecnologias e estratégias de marketing. Se você é um profissional que valoriza a colaboração e a inovação, queremos conhecê-lo!
+
+### Responsabilidades
+
+- Desenvolver e manter sites WordPress, garantindo a funcionalidade e a experiência do usuário.
+- Customizar temas e plugins conforme as necessidades dos clientes.
+- Integrar soluções de SEO e otimização de performance nos projetos.
+- Trabalhar em colaboração com a equipe de design e marketing para implementar soluções criativas.
+- Realizar testes e debug do site para garantir a qualidade e a usabilidade.
+- Fornecer suporte técnico e treinamento aos clientes sobre o uso do WordPress.
+- Manter-se atualizado sobre as novas tendências e atualizações do WordPress e do mercado digital.
+
+### Requisitos Essenciais
+
+- Experiência sólida em desenvolvimento WordPress, incluindo a personalização de temas e plugins.
+- Conhecimento em HTML, CSS, JavaScript e PHP.
+- Experiência com ferramentas de SEO e análise de desempenho.
+- Capacidade de trabalhar de forma independente e gerenciar prazos.
+- Boa comunicação verbal e escrita.
+- Disponibilidade para atuar como PJ.
+
+### Diferenciais
+
+- Experiência com e-commerce em WordPress (WooCommerce).
+- Conhecimento em ferramentas de automação de marketing.
+- Familiaridade com metodologias ágeis (como Scrum ou Kanban).
+- Portfólio de projetos anteriores que demonstre suas habilidades e criatividade.
+
+---
+
+Se você está pronto para fazer parte de uma equipe que valoriza a criatividade e a inovação, envie seu currículo e portfólio para nós! Estamos ansiosos para conhecer você e suas ideias.

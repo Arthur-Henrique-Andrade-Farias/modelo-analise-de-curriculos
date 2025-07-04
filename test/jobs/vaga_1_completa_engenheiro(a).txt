@@ -1,0 +1,36 @@
+**Vaga: Engenheiro(a) de Suporte Técnico Pleno/Sênior**  
+**Empresa: TechSolutions B2B**  
+**Localização: Curitiba, PR**  
+**Modalidade: Híbrido**
+
+---
+
+### Descrição da Empresa
+A TechSolutions B2B é uma empresa inovadora no setor de SaaS (Software as a Service), dedicada a oferecer soluções tecnológicas que potencializam a eficiência de negócios de diversos segmentos. Com uma equipe apaixonada por tecnologia e comprometida com a excelência no atendimento, buscamos profissionais talentosos que queiram crescer e fazer parte da nossa trajetória de sucesso. Venha transformar o mercado conosco!
+
+### Responsabilidades
+- Atuar como ponto de contato técnico para clientes, oferecendo suporte e resolução de problemas relacionados aos nossos produtos SaaS.
+- Diagnosticar e resolver problemas técnicos, garantindo a satisfação e a continuidade do serviço para nossos clientes.
+- Colaborar com as equipes de desenvolvimento e produto para identificar e relatar bugs, sugerir melhorias e participar de testes de novas funcionalidades.
+- Criar e manter documentação técnica e guias de usuário, contribuindo para a base de conhecimento da empresa.
+- Prover treinamentos e suporte a clientes sobre o uso dos nossos produtos, garantindo que eles aproveitem ao máximo as funcionalidades disponíveis.
+- Analisar métricas de suporte e sugerir melhorias nos processos internos para otimizar a eficiência do atendimento.
+
+### Requisitos Essenciais
+- Formação superior em Engenharia da Computação, Tecnologia da Informação ou áreas relacionadas.
+- Experiência mínima de 3 anos em suporte técnico, preferencialmente em empresas de SaaS B2B.
+- Conhecimento sólido em sistemas operacionais (Windows e Linux), redes e protocolos de comunicação.
+- Habilidade em realizar diagnósticos e solucionar problemas técnicos complexos.
+- Excelentes habilidades de comunicação verbal e escrita, com capacidade de interagir com clientes de diferentes níveis técnicos.
+- Capacidade de trabalhar de forma independente e em equipe, além de gerenciar múltiplas prioridades.
+
+### Diferenciais
+- Certificações em tecnologias de suporte, como ITIL, CompTIA ou similares.
+- Experiência com ferramentas de ticketing e CRM.
+- Conhecimento em linguagens de programação (Python, JavaScript, etc.) e APIs.
+- Familiaridade com metodologias ágeis e ferramentas como Jira ou Trello.
+- Experiência prévia no setor de tecnologia B2B ou SaaS.
+
+---
+
+Se você é apaixonado por tecnologia e deseja fazer parte de uma equipe que valoriza a inovação e a excelência no atendimento, envie seu currículo para o e-mail: recrutamento@techsolutionsb2b.com. Venha construir o futuro da tecnologia conosco!

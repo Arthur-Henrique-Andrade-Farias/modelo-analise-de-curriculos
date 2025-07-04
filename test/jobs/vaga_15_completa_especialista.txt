@@ -1,0 +1,38 @@
+**Vaga: Especialista em Segurança Ofensiva (Pentester)**  
+**Empresa: CyberGuard Consultoria em Cibersegurança**  
+**Localização: Brasília, DF**  
+**Modalidade: Remoto**
+
+---
+
+### Descrição da Empresa
+
+A CyberGuard é uma consultoria de cibersegurança em crescimento, dedicada a fornecer soluções inovadoras e eficazes para proteger nossos clientes contra ameaças digitais. Com uma equipe de especialistas apaixonados e altamente qualificados, trabalhamos para garantir a integridade, confidencialidade e disponibilidade das informações de nossos clientes. Buscamos um Especialista em Segurança Ofensiva (Pentester) para se juntar ao nosso time e fortalecer ainda mais nossa oferta de serviços.
+
+### Responsabilidades
+
+- Conduzir testes de penetração em sistemas, redes e aplicativos para identificar vulnerabilidades e fraquezas em segurança.
+- Desenvolver e executar scripts e ferramentas personalizadas para simular ataques reais.
+- Elaborar relatórios detalhados sobre as descobertas, incluindo recomendações de mitigação de riscos.
+- Colaborar com equipes de desenvolvimento e operações para implementar as melhores práticas de segurança.
+- Participar de avaliações de segurança e auditorias de compliance.
+- Manter-se atualizado sobre as últimas ameaças e tendências em segurança cibernética.
+- Realizar treinamentos e workshops internos sobre segurança ofensiva para a equipe.
+
+### Requisitos Essenciais
+
+- Formação superior em Ciência da Computação, Engenharia da Computação ou áreas relacionadas.
+- Experiência comprovada como Pentester, com mínimo de 3 anos de atuação na área.
+- Conhecimento profundo em metodologias de testes de penetração (OWASP, NIST, PTES).
+- Habilidade em utilizar ferramentas de segurança como Metasploit, Burp Suite, Nmap, entre outras.
+- Certificações relevantes como OSCP, CEH, ou equivalente.
+- Boa comunicação verbal e escrita em português, com habilidade para apresentar resultados de forma clara e concisa.
+
+### Diferenciais
+
+- Experiência em ambientes de cloud computing (AWS, Azure, Google Cloud).
+- Conhecimento em desenvolvimento seguro (Secure Coding) e linguagens de programação como Python, Java ou C#.
+- Certificações adicionais em segurança da informação, como CISSP, CISM ou equivalente.
+- Participação ativa em comunidades de cibersegurança, conferências ou eventos do setor.
+
+Se você é apaixonado por segurança cibernética e deseja fazer parte de uma equipe inovadora e dinâmica, envie seu currículo e uma carta de apresentação para [email@cyberguard.com]. Estamos ansiosos para conhecer você!

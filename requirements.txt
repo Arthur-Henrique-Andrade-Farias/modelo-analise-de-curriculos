@@ -8,3 +8,5 @@ python-multipart
 black
 fpdf2
 requests 
+pandas
+plotly

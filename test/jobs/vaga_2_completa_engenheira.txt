@@ -1,0 +1,33 @@
+**Vaga: Engenheira de Dados Sênior**  
+**Empresa: Banco Futuro**  
+**Localização: Brasília, DF**  
+**Modalidade: Híbrido**
+
+---
+
+### Descrição da Empresa
+O Banco Futuro é uma instituição financeira inovadora que busca transformar o mercado bancário por meio da tecnologia. Com um compromisso firme com a excelência e a inovação, oferecemos soluções financeiras que atendem às necessidades de nossos clientes de forma eficiente e segura. Em nosso ambiente colaborativo, valorizamos a diversidade e o crescimento profissional, promovendo um espaço onde a criatividade e o conhecimento se encontram para criar o futuro das finanças.
+
+### Responsabilidades
+- Desenvolver e implementar pipelines de dados utilizando Azure Data Factory e Databricks para garantir a eficiência e a integridade dos dados.
+- Colaborar com equipes multidisciplinares para entender as necessidades de dados e fornecer soluções adequadas.
+- Realizar a modelagem de dados e otimização de processos para suportar a tomada de decisões estratégicas.
+- Monitorar e manter a qualidade dos dados, realizando auditorias e melhorias contínuas nos processos existentes.
+- Documentar processos e procedimentos de engenharia de dados, garantindo a transferência de conhecimento e boas práticas.
+- Participar ativamente de reuniões e workshops para identificação de novas oportunidades de negócios e melhoria de processos.
+
+### Requisitos Essenciais
+- Graduação em Ciência da Computação, Engenharia de Software, Engenharia de Dados ou áreas correlatas.
+- Experiência comprovada de pelo menos 5 anos em engenharia de dados com foco em Azure Data Factory e Databricks.
+- Proficiência em linguagens de programação como Python e SQL.
+- Sólidos conhecimentos em arquiteturas de dados, ETL e gerenciamento de grandes volumes de dados.
+- Habilidade em trabalhar em ambientes ágeis e colaborativos.
+- Capacidade analítica e atenção aos detalhes.
+
+### Diferenciais
+- Certificações em Azure e/ou Databricks.
+- Experiência em ambientes de bancos ou instituições financeiras.
+- Conhecimento em ferramentas de visualização de dados como Power BI ou Tableau.
+- Experiência em Machine Learning e Inteligência Artificial.
+
+Se você é um profissional apaixonado por dados e deseja fazer parte de uma equipe que está moldando o futuro das finanças, envie seu currículo para nós! No Banco Futuro, seu talento tem o poder de transformar realidades.

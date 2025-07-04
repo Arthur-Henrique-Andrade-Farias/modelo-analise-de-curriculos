@@ -1,0 +1,39 @@
+**Nome da Vaga:** Analista de Business Intelligence
+
+**Nome da Empresa:** Supermercados EcoMarket
+
+**Localização:** Recife, PE
+
+**Modalidade:** Presencial
+
+---
+
+### Descrição da Empresa
+A EcoMarket é uma rede de supermercados em crescimento, comprometida em oferecer produtos de qualidade e um excelente atendimento ao cliente. Com várias unidades em Recife, buscamos constantemente inovações para otimizar nossos processos e proporcionar uma experiência única aos nossos consumidores. Valorizamos a transparência, a sustentabilidade e o trabalho em equipe, e estamos em busca de um profissional que compartilhe desses valores para se juntar ao nosso time.
+
+### Responsabilidades
+- Analisar e interpretar dados de vendas, estoque e comportamento do cliente para fornecer insights estratégicos que ajudem na tomada de decisões.
+- Desenvolver e manter dashboards e relatórios utilizando a ferramenta Tableau, garantindo que as informações sejam apresentadas de forma clara e acessível.
+- Colaborar com as equipes de marketing, vendas e operações para identificar oportunidades de melhoria e otimização de processos.
+- Criar modelos preditivos e análises de tendências que ajudem a antecipar demandas e otimizar a gestão de estoque.
+- Apresentar resultados e recomendações para a alta gestão, utilizando visualizações impactantes e relatórios detalhados.
+- Participar ativamente de reuniões interdepartamentais, contribuindo com análises e sugestões baseadas em dados.
+
+### Requisitos Essenciais
+- Formação superior em Administração, Economia, Engenharia, Estatística ou áreas correlatas.
+- Experiência prévia como Analista de Business Intelligence ou em funções semelhantes.
+- Domínio avançado da ferramenta Tableau para criação de dashboards e relatórios.
+- Conhecimento em SQL para manipulação e consulta de bancos de dados.
+- Habilidade analítica e visão crítica para interpretação de dados e geração de insights.
+- Boa comunicação e capacidade de apresentação de resultados para diferentes públicos.
+
+### Diferenciais
+- Experiência na área de varejo, especialmente em supermercados ou setores afins.
+- Conhecimento em outras ferramentas de BI (Power BI, QlikView, etc.).
+- Certificações em análise de dados ou BI.
+- Familiaridade com técnicas de data mining e estatística.
+- Fluência em inglês será um diferencial.
+
+---
+
+Se você é apaixonado por dados e deseja fazer parte de uma equipe que valoriza a inovação e a melhoria contínua, envie seu currículo para nós e venha contribuir com o crescimento da EcoMarket!

@@ -1,0 +1,39 @@
+**Nome da Vaga:** Cientista de Dados - Agronegócio  
+**Nome da Empresa:** AgroTech Solutions  
+**Localização:** Campo Grande, MS  
+**Modalidade:** Híbrido  
+
+---
+
+### Descrição da Empresa
+
+A AgroTech Solutions é uma empresa inovadora que atua na interseção entre tecnologia e agronegócio. Nossa missão é transformar dados em insights valiosos para o setor agrícola, promovendo práticas mais sustentáveis e eficientes. Com uma equipe multidisciplinar e ambiente colaborativo, buscamos profissionais que queiram fazer a diferença no futuro da agricultura.
+
+### Responsabilidades
+
+- Desenvolver e implementar modelos de Machine Learning para análise de dados agrícolas.
+- Realizar geoprocessamento para mapear e analisar informações geográficas relevantes ao agronegócio.
+- Coletar, limpar e transformar grandes volumes de dados provenientes de diferentes fontes, incluindo sensores e imagens de satélite.
+- Colaborar com equipes de agronomia e tecnologia para identificar oportunidades de inovação e melhoria de processos.
+- Criar visualizações interativas e relatórios que facilitem a interpretação e a tomada de decisão baseada em dados.
+- Participar ativamente em reuniões de equipe e contribuir com ideias para o desenvolvimento de novos projetos.
+
+### Requisitos Essenciais
+
+- Graduação em Ciência da Computação, Estatística, Engenharia de Dados ou áreas correlatas.
+- Experiência comprovada em geoprocessamento e análise de dados geoespaciais.
+- Proficiência em Python e bibliotecas relacionadas a ciência de dados (pandas, NumPy, scikit-learn, etc.).
+- Habilidade em manipulação de bancos de dados SQL e NoSQL.
+- Capacidade de trabalhar de forma colaborativa em um ambiente dinâmico e multidisciplinar.
+- Boa comunicação para transmitir resultados técnicos a públicos não técnicos.
+
+### Diferenciais
+
+- Conhecimento em ferramentas de visualização de dados, como Tableau ou Power BI.
+- Experiência prévia no setor de agronegócio ou em projetos relacionados à agricultura de precisão.
+- Familiaridade com técnicas de Big Data e análise preditiva.
+- Certificações em ciência de dados ou áreas afins.
+
+---
+
+Se você é apaixonado por dados e deseja contribuir para a transformação do agronegócio no Brasil, envie seu currículo e venha fazer parte da nossa equipe! A AgroTech Solutions valoriza a diversidade e está comprometida com um ambiente de trabalho inclusivo.

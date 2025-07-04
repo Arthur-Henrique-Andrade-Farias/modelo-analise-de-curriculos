@@ -1,0 +1,32 @@
+**Vaga: Desenvolvedor(a) de Software Embarcado**  
+**Empresa: AutoTech Solutions**  
+**Localização: Caxias do Sul, RS**  
+**Modalidade: Presencial**  
+
+**Descrição da Empresa**  
+A AutoTech Solutions é uma empresa inovadora que atua no desenvolvimento de tecnologia para a indústria automotiva. Com um forte compromisso com a qualidade e a inovação, nossa missão é criar soluções que aprimorem a experiência do usuário e a eficiência dos veículos do futuro. Buscamos profissionais apaixonados por tecnologia e que queiram fazer parte de um time dinâmico e colaborativo, onde o aprendizado contínuo e a criatividade são valorizados.
+
+**Responsabilidades**  
+- Desenvolver, testar e implementar software embarcado para sistemas automotivos, garantindo a integração com hardware e outros componentes do veículo.  
+- Trabalhar em conjunto com engenheiros de hardware e outros desenvolvedores para projetar soluções que atendam aos requisitos técnicos e de mercado.  
+- Participar de reuniões de planejamento e revisão de sprint, contribuindo com ideias e soluções para o desenvolvimento ágil de projetos.  
+- Realizar análise de requisitos e especificações de projeto, assegurando que todas as funcionalidades atendam às normas de segurança e qualidade da indústria automotiva.  
+- Documentar processos e resultados de testes, colaborando para a melhoria contínua das práticas de desenvolvimento.  
+- Acompanhar as tendências e inovações tecnológicas na área de software embarcado e aplicar conhecimentos adquiridos em projetos atuais.
+
+**Requisitos Essenciais**  
+- Formação superior em Engenharia da Computação, Ciência da Computação, Sistemas de Informação ou áreas correlatas.  
+- Experiência comprovada em desenvolvimento de software embarcado, preferencialmente na indústria automotiva.  
+- Domínio das linguagens de programação C/C++ e experiência com sistemas operacionais embarcados (ex.: RTOS).  
+- Conhecimento em protocolos de comunicação automotiva, como CAN, LIN e Ethernet.  
+- Familiaridade com ferramentas de versionamento de código, como Git.  
+- Capacidade de trabalhar em equipe, com boa comunicação e habilidades de resolução de problemas.
+
+**Diferenciais**  
+- Experiência com desenvolvimento de software para sistemas ADAS (Advanced Driver-Assistance Systems).  
+- Conhecimento em metodologias ágeis (Scrum, Kanban).  
+- Certificações em tecnologias e práticas de desenvolvimento de software embarcado.  
+- Vivência em projetos de IoT (Internet das Coisas) aplicados à indústria automotiva.  
+- Inglês avançado ou fluente.
+
+Se você é apaixonado por tecnologia e deseja contribuir para a inovação na indústria automotiva, inscreva-se agora e venha fazer parte da AutoTech Solutions! Envie seu currículo para [email@autotechsolutions.com] até [data limite]. Estamos ansiosos para conhecer você!

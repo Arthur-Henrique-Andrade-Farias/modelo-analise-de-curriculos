@@ -75,9 +75,20 @@ class PDF(FPDF):
 
 def criar_pdf_de_curriculo(perfil: Curriculo, filename: str):
     """
-    Pega um objeto Curriculo (Pydantic) e cria um arquivo PDF formatado.
+    Pega um objeto Curriculo (Pydantic) e cria um arquivo PDF formatado
+    na pasta de destino 'test/resumes'.
     """
     print(f"📄 Criando PDF '{filename}'...")
+
+    script_path = os.path.abspath(__file__)
+    project_root = os.path.dirname(os.path.dirname(script_path))
+    target_dir = os.path.join(project_root, 'test', 'resumes')
+
+    if not os.path.exists(target_dir):
+        os.makedirs(target_dir)
+
+    filepath = os.path.join(target_dir, filename)
+
     pdf = PDF('P', 'mm', 'A4')
     pdf.add_page()
     pdf.set_auto_page_break(auto=True, margin=15)
@@ -127,16 +138,15 @@ def criar_pdf_de_curriculo(perfil: Curriculo, filename: str):
     habilidades_str = ', '.join(perfil.habilidades)
     pdf.multi_cell(0, 7, habilidades_str)
 
-    pdf.output(filename)
-    print(f"✅ PDF '{filename}' salvo com sucesso.")
-
+    # Salva o PDF no caminho completo
+    pdf.output(filepath)
+    print(f"✅ PDF '{filename}' salvo com sucesso em: '{target_dir}'")
 
 if __name__ == "__main__":
     personas_para_gerar = [
-        "Desenvolvedor Mobile Sênior, especialista em Flutter, morador de Campinas, SP.",
-        "Cientista de Dados recém-formada, com mestrado em IA e projetos acadêmicos em PNL, de Belo Horizonte, MG.",
-        "Profissional de DevOps Pleno em transição de carreira de Administrador de Sistemas, com foco em automação com Terraform e Ansible, de Curitiba, PR.",
-        "UX/UI Designer Júnior, com foco em design de aplicativos para o setor de saúde, residente de Salvador, BA."
+        "Recrutador Técnico (Tech Recruiter) Sênior, com experiência em sourcing de talentos para vagas de engenharia de software e dados, de São Paulo, SP.",
+        "Desenvolvedor Blockchain Pleno, com foco em smart contracts com Solidity e ecossistema Ethereum, trabalhando remotamente de Ouro Preto, MG.",
+        "Estudante de Engenharia de Computação do ITA, com publicações em conferências de IA e experiência em competições do Kaggle, de São José dos Campos, SP."
     ]
 
     print("🚀 Iniciando o Bot Gerador de Currículos...\n")

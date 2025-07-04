@@ -1,0 +1,35 @@
+**Vaga: Administrador de Sistemas Linux Sênior**  
+**Empresa: TechHost Solutions**  
+**Localização: Fortaleza, CE**  
+**Modalidade: Presencial**
+
+### Descrição da Empresa
+A TechHost Solutions é um provedor de hosting reconhecido por sua excelência em serviços de infraestrutura em nuvem e suporte técnico de alta qualidade. Com uma equipe dedicada e apaixonada pela tecnologia, oferecemos soluções inovadoras para empresas de todos os tamanhos, garantindo segurança, escalabilidade e desempenho. Estamos em constante crescimento e buscamos profissionais talentosos para fazer parte do nosso time.
+
+### Responsabilidades
+- Gerenciar e manter servidores Linux, garantindo alta disponibilidade e desempenho.
+- Implementar e monitorar políticas de segurança para proteger a infraestrutura e os dados dos clientes.
+- Realizar a configuração e otimização de servidores web, bancos de dados e serviços de rede.
+- Diagnosticar e resolver problemas técnicos de forma proativa e eficiente.
+- Colaborar com a equipe de desenvolvimento para implementar soluções de integração e automação.
+- Documentar procedimentos e configurações, assegurando a transferência de conhecimento dentro da equipe.
+- Participar de projetos de melhoria contínua e inovação na infraestrutura da empresa.
+
+### Requisitos Essenciais
+- Formação superior em Ciência da Computação, Sistemas de Informação ou áreas relacionadas.
+- Mínimo de 5 anos de experiência como Administrador de Sistemas Linux.
+- Sólido conhecimento em administração de servidores Linux (CentOS, Ubuntu, Debian).
+- Experiência com virtualização (KVM, VMware) e containers (Docker, Kubernetes).
+- Familiaridade com ferramentas de monitoração e gerenciamento de sistemas (Nagios, Zabbix, Ansible).
+- Habilidade em scripts (Bash, Python, Perl) para automação de tarefas.
+- Conhecimento em redes e segurança da informação.
+- Excelentes habilidades de resolução de problemas e trabalho em equipe.
+
+### Diferenciais
+- Certificações relevantes em Linux (LPIC, RHCE, CompTIA Linux+).
+- Experiência em ambientes de cloud computing (AWS, Google Cloud, Azure).
+- Conhecimento em bancos de dados (MySQL, PostgreSQL).
+- Experiência prévia em empresas de hosting ou datacenters.
+- Fluência em inglês técnico.
+
+Se você é um profissional apaixonado por tecnologia e deseja integrar uma equipe inovadora e dinâmica, envie seu currículo para nós! Na TechHost Solutions, valorizamos o talento e a dedicação, e estamos prontos para oferecer um ambiente desafiador e recompensador.

@@ -1,0 +1,37 @@
+**Vaga: Engenheiro(a) de Confiabilidade (SRE)**  
+**Empresa: StreamTech Solutions**  
+**Localização: Remoto**  
+**Modalidade: Remota**  
+
+---
+
+### Descrição da Empresa
+A StreamTech Solutions é uma empresa inovadora no setor de tecnologia, especializada em fornecer uma plataforma de streaming de vídeo de alta qualidade. Com um compromisso firme com a excelência e a experiência do usuário, estamos em constante evolução para oferecer serviços que atendam às necessidades de nossos clientes. Nossa equipe é composta por profissionais apaixonados, dedicados e que buscam sempre o próximo nível em soluções tecnológicas.
+
+### Responsabilidades
+- Garantir a confiabilidade, escalabilidade e desempenho da plataforma de streaming, monitorando sistemas e aplicações em tempo real.
+- Colaborar com equipes de desenvolvimento para implementar práticas de DevOps, promovendo uma cultura de automação e melhoria contínua.
+- Identificar e resolver problemas de produção, utilizando técnicas de análise de causa raiz.
+- Projetar, implementar e gerenciar ferramentas de monitoramento e alerta proativas.
+- Conduzir testes de carga e estresse para garantir a robustez da plataforma em picos de acesso.
+- Criar e manter documentação técnica sobre processos, sistemas e procedimentos operacionais.
+- Participar ativamente em reuniões de planejamento e retrospectivas, contribuindo com insights sobre confiabilidade e performance.
+
+### Requisitos Essenciais
+- Graduação em Engenharia de Software, Ciência da Computação ou áreas relacionadas.
+- Experiência sólida em práticas de Site Reliability Engineering (SRE) ou DevOps.
+- Proficiência em linguagens de programação como Python, Go ou Java.
+- Conhecimento em ferramentas de monitoramento como Prometheus, Grafana ou similar.
+- Experiência com sistemas de nuvem (AWS, Google Cloud, Azure).
+- Capacidade de solução de problemas e pensamento crítico com foco em resultados.
+
+### Diferenciais
+- Experiência prévia em plataformas de streaming ou serviços de mídia.
+- Conhecimento de contêineres (Docker, Kubernetes).
+- Familiaridade com metodologias ágeis (Scrum, Kanban).
+- Certificações em SRE, DevOps ou Cloud Computing.
+- Habilidades de comunicação e trabalho em equipe em ambientes remotos.
+
+---
+
+Se você é apaixonado por tecnologia e deseja fazer parte de uma equipe que valoriza a inovação e a confiabilidade, inscreva-se agora e venha transformar a experiência de streaming de milhões de usuários com a gente!

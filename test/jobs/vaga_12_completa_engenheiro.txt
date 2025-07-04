@@ -1,0 +1,42 @@
+**Vaga: Engenheiro de Machine Learning - Visão Computacional**  
+**Empresa: HealthTech Innovators**  
+**Localização: Rio de Janeiro, RJ**  
+**Modalidade: Híbrido**  
+
+---
+
+**Descrição da Empresa:**  
+A HealthTech Innovators é uma startup dinâmica e inovadora, dedicada a transformar o setor de saúde por meio da tecnologia. Com uma equipe apaixonada e multidisciplinar, buscamos desenvolver soluções que melhorem a qualidade de vida das pessoas, utilizando inteligência artificial e análise de dados. Nossa missão é otimizar processos de saúde e criar ferramentas que auxiliem profissionais e pacientes em suas jornadas. Se você deseja fazer parte de um ambiente colaborativo e impactar positivamente a vida de milhares de pessoas, venha nos conhecer!
+
+---
+
+**Responsabilidades:**  
+- Desenvolver e implementar modelos de Machine Learning com foco em visão computacional para análise de imagens médicas e diagnósticos automatizados.  
+- Colaborar com equipes multidisciplinares para identificar desafios e oportunidades na aplicação de técnicas de Machine Learning em saúde.  
+- Realizar a pré-processamento de dados, extração de características e treinamento de modelos para garantir a precisão e eficácia das soluções.  
+- Avaliar e otimizar algoritmos existentes, propondo melhorias contínuas para aumentar a performance dos sistemas.  
+- Participar na documentação de processos e resultados, contribuindo para a disseminação de conhecimento na equipe.  
+- Manter-se atualizado sobre as inovações e tendências do mercado de Machine Learning e saúde, propondo novas ideias e abordagens.
+
+---
+
+**Requisitos Essenciais:**  
+- Formação em Ciência da Computação, Engenharia, Estatística ou áreas correlatas.  
+- Experiência comprovada em desenvolvimento de modelos de Machine Learning, especialmente em visão computacional.  
+- Domínio de linguagens de programação como Python e bibliotecas específicas (TensorFlow, Keras, OpenCV).  
+- Conhecimento em pré-processamento de dados, técnicas de aumento de dados e avaliação de modelos.  
+- Capacidade de trabalhar de forma colaborativa em um ambiente ágil e dinâmico.  
+- Boa comunicação e habilidade para apresentar resultados e insights de forma clara.
+
+---
+
+**Diferenciais:**  
+- Experiência prévia em startups ou ambientes de inovação.  
+- Conhecimento em outras áreas da inteligência artificial, como processamento de linguagem natural (NLP).  
+- Familiaridade com ferramentas de versionamento de código (Git) e metodologias ágeis (Scrum, Kanban).  
+- Mestrado ou doutorado em áreas relevantes.  
+- Interesse e experiência em aplicações de saúde ou ciências da vida.
+
+---
+
+Se você é apaixonado por tecnologia e saúde e deseja fazer parte de uma equipe que está mudando o futuro da medicina, envie seu currículo e venha se juntar à HealthTech Innovators. Estamos ansiosos para conhecer você!

@@ -1,0 +1,34 @@
+**Vaga: Analista de Suporte Técnico Nível 2**  
+**Empresa: Tech Solutions Brasil**  
+**Localização: Curitiba, PR**  
+**Modalidade: Presencial**
+
+---
+
+### Descrição da Empresa
+A Tech Solutions Brasil é uma empresa inovadora no segmento de desenvolvimento de software, com foco em soluções que transformam o cotidiano das empresas. Nossa missão é promover a eficiência e a inovação por meio da tecnologia, criando produtos que atendam às necessidades específicas de nossos clientes. Com um ambiente colaborativo e dinâmico, valorizamos o talento e a dedicação de nossos colaboradores, proporcionando oportunidades de crescimento e desenvolvimento profissional.
+
+### Responsabilidades
+- Atuar como ponto de contato para suporte técnico avançado, resolvendo problemas e dúvidas de clientes em relação aos nossos produtos de software.
+- Diagnosticar e solucionar incidentes técnicos com agilidade, garantindo a satisfação do cliente.
+- Documentar e acompanhar as solicitações de suporte, utilizando nossa ferramenta interna de gestão de tickets.
+- Colaborar com a equipe de desenvolvimento para identificar e reportar bugs e melhorias nos sistemas.
+- Fornecer treinamentos e orientações a clientes sobre o uso das soluções oferecidas.
+- Participar de reuniões de equipe e contribuir com sugestões para a melhoria contínua do serviço de suporte.
+
+### Requisitos Essenciais
+- Ensino Superior completo em Tecnologia da Informação, Ciência da Computação ou áreas correlatas.
+- Experiência mínima de 2 anos em suporte técnico ou help desk, preferencialmente na área de software.
+- Conhecimento em sistemas operacionais (Windows e Linux), redes e banco de dados.
+- Habilidade de comunicação clara e eficaz, tanto verbal quanto escrita.
+- Capacidade de trabalhar em equipe e resolver problemas de forma proativa.
+
+### Diferenciais
+- Certificações em ITIL, CompTIA ou áreas relacionadas.
+- Experiência com ferramentas de suporte remoto e gestão de tickets.
+- Conhecimento em linguagens de programação (ex: Python, Java) e metodologias ágeis.
+- Familiaridade com integração de sistemas e APIs.
+
+Se você é apaixonado por tecnologia, possui habilidades de resolução de problemas e deseja fazer parte de uma equipe que valoriza a inovação, envie seu currículo para nós! A Tech Solutions Brasil está ansiosa para conhecer você e explorar como você pode contribuir para o nosso sucesso.
+
+**Candidate-se agora e venha fazer parte da nossa equipe!**

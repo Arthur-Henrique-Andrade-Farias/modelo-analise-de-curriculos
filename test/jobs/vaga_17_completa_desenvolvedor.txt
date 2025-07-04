@@ -1,0 +1,35 @@
+**Vaga: Desenvolvedor de Jogos Pleno (Unreal Engine)**  
+**Empresa: Creative Play Studios**  
+**Localização: São Paulo, SP**  
+**Modalidade: Híbrido**  
+
+---
+
+### Descrição da Empresa
+A Creative Play Studios é um estúdio de desenvolvimento de jogos inovador e em crescimento, localizado no coração de São Paulo. Com uma equipe apaixonada e criativa, nos dedicamos a criar experiências imersivas e emocionantes que encantam jogadores ao redor do mundo. Nossa missão é transformar ideias em realidade, utilizando tecnologia de ponta e design de qualidade. Se você é um entusiasta de jogos e busca um ambiente colaborativo e dinâmico, venha fazer parte da nossa equipe!
+
+### Responsabilidades
+- Participar do desenvolvimento de jogos utilizando a Unreal Engine, contribuindo em todas as etapas do ciclo de vida do jogo, desde a concepção até a implementação.
+- Colaborar com designers, artistas e outros desenvolvedores para criar mecânicas de jogo envolventes e de alta qualidade.
+- Realizar testes e depurações de código para garantir a performance e a estabilidade do jogo.
+- Implementar e otimizar gráficos, animações e efeitos visuais dentro do Unreal Engine.
+- Manter-se atualizado sobre as tendências do mercado de jogos e inovações tecnológicas, aplicando novos conhecimentos nas produções.
+- Participar de reuniões de equipe e contribuir com ideias criativas para novos projetos.
+
+### Requisitos Essenciais
+- Graduação em Ciência da Computação, Engenharia de Software ou áreas relacionadas.
+- Experiência comprovada como Desenvolvedor de Jogos, preferencialmente com 2 a 4 anos de experiência em Unreal Engine.
+- Sólidos conhecimentos em linguagens de programação, como C++ e Blueprints.
+- Experiência em desenvolvimento de jogos 3D e familiaridade com ferramentas de modelagem e animação.
+- Habilidade para trabalhar em equipe e boa comunicação.
+
+### Diferenciais
+- Experiência anterior em estúdios de jogos ou projetos independentes.
+- Conhecimento em design de jogos, narrativa interativa e mecânicas de jogo.
+- Familiaridade com VR/AR e desenvolvimento para plataformas móveis.
+- Contribuições para projetos de código aberto ou portfólio de jogos pessoais.
+- Proatividade e paixão por jogos e novas tecnologias.
+
+---
+
+Se você está pronto para dar o próximo passo na sua carreira e trabalhar em um ambiente onde sua criatividade será valorizada, envie seu currículo e portfólio para nós! Junte-se à Creative Play Studios e ajude a criar jogos que inspirem e divirtam milhões de jogadores.

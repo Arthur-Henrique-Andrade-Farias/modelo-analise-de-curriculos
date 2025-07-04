@@ -1,0 +1,1828 @@
+2025-07-04 01:22:33,358 - {
+  "test_number": 1,
+  "resume_file": "Curriculum_2025_01.pdf",
+  "job_file": "cv_qualquer_local.txt",
+  "duration_seconds": 36.38532733917236,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 7,
+      "justificativa": "O candidato possui experiência com Java, que é essencial para a vaga, mas não há menção específica de experiência com Spring Boot, que é um requisito destacado na descrição da vaga."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 6,
+      "justificativa": "Arthur possui experiência relevante em desenvolvimento, incluindo Java, mas sua experiência é mais focada em tecnologias front-end e full-stack, com menos ênfase em back-end e Spring Boot especificamente."
+    },
+    "compatibilidade_geografica": {
+      "nota": 10,
+      "justificativa": "A modalidade da vaga não foi especificada e a cidade também não foi mencionada, presumindo-se flexibilidade geográfica total."
+    },
+    "alinhamento_educacional": {
+      "nota": 8,
+      "justificativa": "Arthur está cursando um bacharelado em Ciência da Computação e possui formação técnica em TI, o que é altamente relevante para a vaga de desenvolvedor."
+    },
+    "valor_diferenciais": {
+      "nota": 7,
+      "justificativa": "Arthur possui várias habilidades listadas como diferenciais, como testes automatizados, desenvolvimento ágil e ferramentas de BI, embora não sejam diretamente mencionadas como diferenciais na descrição da vaga."
+    },
+    "score_final_ponderado": 8,
+    "pontos_fortes": [
+      "Experiência em desenvolvimento com Java",
+      "Formação acadêmica relevante em Ciência da Computação",
+      "Habilidades em testes automatizados e desenvolvimento ágil"
+    ],
+    "pontos_de_desenvolvimento": [
+      "Experiência específica com Spring Boot",
+      "Clarificar a modalidade e localização da vaga"
+    ],
+    "perguntas_sugeridas": [
+      "Qual é a modalidade de trabalho para esta vaga?",
+      "A vaga exige presença em algum local específico ocasionalmente?"
+    ]
+  }
+}
+2025-07-04 01:22:56,190 - {
+  "test_number": 2,
+  "resume_file": "curriculo_gerado_10_juliana.pdf",
+  "job_file": "vaga_10_completa_analista.txt",
+  "duration_seconds": 22.83125400543213,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 4,
+      "justificativa": "A candidata Juliana possui experiência significativa em desenvolvimento mobile, especificamente com iOS, mas não há menção direta à experiência com automação de testes ou uso da ferramenta Appium, que são essenciais para a vaga."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 7,
+      "justificativa": "Juliana tem uma sólida experiência em desenvolvimento mobile e liderança técnica, o que é relevante para a vaga. No entanto, a falta de experiência específica em QA e automação de testes impacta a nota."
+    },
+    "compatibilidade_geografica": {
+      "nota": 1,
+      "justificativa": "A vaga é híbrida em São Paulo, SP, e Juliana está localizada em Belo Horizonte, MG, o que pode representar um desafio logístico para o cumprimento dos requisitos presenciais da vaga."
+    },
+    "alinhamento_educacional": {
+      "nota": 9,
+      "justificativa": "Juliana possui formação em Ciência da Computação pela Universidade Federal de Minas Gerais, o que é altamente relevante e alinhado com os requisitos educacionais da vaga."
+    },
+    "valor_diferenciais": {
+      "nota": 2,
+      "justificativa": "Embora Juliana tenha uma forte experiência em desenvolvimento mobile, ela não apresenta os diferenciais específicos mencionados na vaga, como experiência em ambientes bancários ou certificações em testes de software."
+    },
+    "score_final_ponderado": 4,
+    "pontos_fortes": [
+      "Formação acadêmica alinhada com a vaga",
+      "Experiência sólida em desenvolvimento mobile"
+    ],
+    "pontos_de_desenvolvimento": [
+      "Falta de experiência com automação de testes e ferramentas específicas como Appium",
+      "Localização geográfica não alinhada com a modalidade híbrida da vaga",
+      "Ausência de diferenciais específicos como experiência em ambientes bancários"
+    ],
+    "perguntas_sugeridas": [
+      "Você tem experiência com automação de testes, especialmente usando Appium?",
+      "Você estaria disposta a se realocar para São Paulo ou frequentar o escritório conforme necessário para a modalidade híbrida?"
+    ]
+  }
+}
+2025-07-04 01:23:10,750 - {
+  "test_number": 3,
+  "resume_file": "curriculo_gerado_11_caio.pdf",
+  "job_file": "vaga_11_completa_estágio.txt",
+  "duration_seconds": 14.55959701538086,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 6,
+      "justificativa": "O candidato possui experiência em desenvolvimento com React Native e JavaScript, que são linguagens de programação relevantes, mas não diretamente mencionadas como essenciais na descrição da vaga que foca em Java, Python ou C#. A experiência em desenvolvimento é um ponto positivo, mas a falta de menção específica às linguagens requeridas pela vaga reduz a nota."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 8,
+      "justificativa": "O candidato tem experiência significativa como desenvolvedor React Native e liderança técnica em projetos, o que demonstra um bom nível de experiência em desenvolvimento de software, embora a vaga seja para estágio e possa requerer um perfil menos experiente."
+    },
+    "compatibilidade_geografica": {
+      "nota": 0,
+      "justificativa": "A vaga é presencial em Campinas, SP, e o candidato está localizado no Rio de Janeiro, RJ, o que implica em incompatibilidade geográfica para a modalidade presencial exigida."
+    },
+    "alinhamento_educacional": {
+      "nota": 10,
+      "justificativa": "O candidato possui um bacharelado em Ciência da Computação pela Universidade Federal do Rio de Janeiro, o que está perfeitamente alinhado com os requisitos educacionais da vaga."
+    },
+    "valor_diferenciais": {
+      "nota": 5,
+      "justificativa": "O candidato tem experiência em desenvolvimento e liderança técnica, mas não há evidências claras de experiência em bancos de dados ou participação em hackathons, que são considerados diferenciais pela vaga."
+    },
+    "score_final_ponderado": 5,
+    "pontos_fortes": [
+      "Experiência em desenvolvimento de software",
+      "Liderança técnica em projetos",
+      "Formação acadêmica alinhada com os requisitos"
+    ],
+    "pontos_de_desenvolvimento": [
+      "Localização geográfica incompatível com a modalidade presencial da vaga",
+      "Falta de experiência com as linguagens de programação especificamente mencionadas na vaga"
+    ],
+    "perguntas_sugeridas": [
+      "Você estaria disposto a se mudar para Campinas, SP para assumir a vaga presencial?",
+      "Você tem experiência com as linguagens de programação Java, Python ou C# mencionadas como essenciais na descrição da vaga?"
+    ]
+  }
+}
+2025-07-04 01:23:25,368 - {
+  "test_number": 4,
+  "resume_file": "curriculo_gerado_12_lucas.pdf",
+  "job_file": "vaga_12_completa_engenheiro.txt",
+  "duration_seconds": 14.617577314376831,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 2,
+      "justificativa": "O candidato possui experiência em desenvolvimento de jogos e domínio de C#, mas não demonstrou experiência ou conhecimento em Python, TensorFlow, Keras, OpenCV, ou qualquer tecnologia específica de visão computacional, que são essenciais para a vaga."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 3,
+      "justificativa": "Lucas tem experiência em desenvolvimento de software, mas sua experiência é focada em jogos e não em machine learning ou visão computacional, que são cruciais para a posição."
+    },
+    "compatibilidade_geografica": {
+      "nota": 1,
+      "justificativa": "A vaga é para trabalho híbrido no Rio de Janeiro, e o candidato está localizado em Manaus, o que pode dificultar a adesão ao modelo de trabalho proposto pela empresa."
+    },
+    "alinhamento_educacional": {
+      "nota": 8,
+      "justificativa": "Lucas possui formação em Ciência da Computação, que é relevante para a vaga. No entanto, a falta de especialização em áreas mais específicas como machine learning ou visão computacional diminui um pouco a pontuação."
+    },
+    "valor_diferenciais": {
+      "nota": 1,
+      "justificativa": "O candidato não demonstrou possuir os diferenciais listados na descrição da vaga, como experiência em startups, conhecimento em NLP, ou familiaridade com ferramentas de versionamento de código e metodologias ágeis."
+    },
+    "score_final_ponderado": 3,
+    "pontos_fortes": [
+      "Formação em Ciência da Computação relevante para a vaga."
+    ],
+    "pontos_de_desenvolvimento": [
+      "Desenvolver habilidades específicas em Python, TensorFlow, Keras, e OpenCV para visão computacional.",
+      "Ganhar experiência em machine learning aplicado à saúde.",
+      "Adquirir conhecimento em ferramentas de versionamento e metodologias ágeis."
+    ],
+    "perguntas_sugeridas": [
+      "Você tem experiência ou formação adicional em visão computacional ou machine learning que não foi mencionada?",
+      "Você estaria disposto a mudar para o Rio de Janeiro para cumprir o requisito de trabalho híbrido?"
+    ]
+  }
+}
+2025-07-04 01:23:41,954 - {
+  "test_number": 5,
+  "resume_file": "curriculo_gerado_13_ricardo.pdf",
+  "job_file": "vaga_13_completa_pessoa.txt",
+  "duration_seconds": 16.585333108901978,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 2,
+      "justificativa": "O candidato possui experiência em engenharia de dados e domínio de tecnologias como Apache Spark, Airflow e AWS, mas não demonstra experiência ou conhecimento em desenvolvimento de software embarcado, linguagens C/C++, ou sistemas operacionais embarcados, que são essenciais para a vaga."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 3,
+      "justificativa": "Ricardo tem experiência como engenheiro de dados, o que envolve algumas habilidades técnicas relevantes, mas sua experiência não está diretamente alinhada com o desenvolvimento de software embarcado especificamente na indústria automotiva, como requerido pela vaga."
+    },
+    "compatibilidade_geografica": {
+      "nota": 0,
+      "justificativa": "A vaga é presencial em Caxias do Sul, RS, e o candidato está localizado em São Paulo, SP, o que indica uma incompatibilidade geográfica significativa."
+    },
+    "alinhamento_educacional": {
+      "nota": 8,
+      "justificativa": "Ricardo possui formação em Engenharia da Computação pela Universidade de São Paulo, o que é altamente relevante e alinhado com os requisitos educacionais da vaga."
+    },
+    "valor_diferenciais": {
+      "nota": 1,
+      "justificativa": "O candidato não demonstra possuir os diferenciais específicos listados para a vaga, como experiência com sistemas ADAS, conhecimento em metodologias ágeis ou certificações em desenvolvimento de software embarcado."
+    },
+    "score_final_ponderado": 2,
+    "pontos_fortes": [
+      "Formação acadêmica relevante em Engenharia da Computação."
+    ],
+    "pontos_de_desenvolvimento": [
+      "Desenvolver habilidades específicas em software embarcado e linguagens C/C++.",
+      "Adquirir experiência na indústria automotiva.",
+      "Obter certificações relevantes para a área de software embarcado.",
+      "Considerar a relocação geográfica para atender aos requisitos da vaga presencial."
+    ],
+    "perguntas_sugeridas": [
+      "Você tem experiência ou formação em desenvolvimento de software embarcado que não foi mencionada no currículo?",
+      "Você estaria disposto a se mudar para Caxias do Sul, RS, para esta posição presencial?"
+    ]
+  }
+}
+2025-07-04 01:24:04,753 - {
+  "test_number": 6,
+  "resume_file": "curriculo_gerado_14_rafaela.pdf",
+  "job_file": "vaga_14_completa_analista.txt",
+  "duration_seconds": 22.79867124557495,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 8,
+      "justificativa": "Rafaela possui experiência avançada com Power BI e SQL, que são essenciais para a função de BI, embora a vaga especifique a necessidade de domínio em Tableau. Sua experiência com outras ferramentas de BI e habilidades em análise de dados são altamente relevantes, mas a falta de experiência específica com Tableau impacta ligeiramente a aderência técnica."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 9,
+      "justificativa": "Rafaela tem uma sólida experiência como Analista de Business Intelligence, incluindo cargos sênior e responsabilidades diretamente alinhadas com as exigências da vaga, como desenvolvimento de dashboards e análise de dados para suporte à decisão estratégica."
+    },
+    "compatibilidade_geografica": {
+      "nota": 0,
+      "justificativa": "A vaga é presencial em Recife, PE, e Rafaela está localizada em Fortaleza, CE. A diferença geográfica implica que ela não está na mesma cidade da vaga, o que pode ser um obstáculo significativo para a compatibilidade geográfica."
+    },
+    "alinhamento_educacional": {
+      "nota": 10,
+      "justificativa": "Rafaela possui formação superior em Administração e um mestrado em Administração com foco em Business Intelligence, o que é extremamente alinhado com os requisitos educacionais da vaga."
+    },
+    "valor_diferenciais": {
+      "nota": 7,
+      "justificativa": "Rafaela tem experiência com Power BI, que é mencionado como um diferencial na vaga. Além disso, sua experiência profissional e habilidades analíticas complementam outros diferenciais listados. No entanto, não há evidências de experiência no setor de varejo ou de certificações específicas em BI."
+    },
+    "score_final_ponderado": 6,
+    "pontos_fortes": [
+      "Experiência avançada em BI",
+      "Formação educacional alinhada com a vaga",
+      "Habilidades analíticas e de gestão de projetos"
+    ],
+    "pontos_de_desenvolvimento": [
+      "Falta de experiência com a ferramenta Tableau especificada na vaga",
+      "Localização geográfica não alinhada com a necessidade presencial da vaga"
+    ],
+    "perguntas_sugeridas": [
+      "Você estaria disposta a se mudar para Recife, ou existe a possibilidade de negociar um arranjo de trabalho remoto?"
+    ]
+  }
+}
+2025-07-04 01:24:21,520 - {
+  "test_number": 7,
+  "resume_file": "curriculo_gerado_15_matheus.pdf",
+  "job_file": "vaga_15_completa_especialista.txt",
+  "duration_seconds": 16.7661714553833,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 3,
+      "justificativa": "O candidato possui habilidades em Python e liderança de equipe, mas não demonstra experiência direta com ferramentas específicas de segurança ofensiva como Metasploit, Burp Suite ou Nmap, nem metodologias de testes de penetração mencionadas nos requisitos essenciais da vaga."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 2,
+      "justificativa": "Embora o candidato tenha experiência significativa como Cientista de Dados, não há evidências de experiência direta como Pentester ou em segurança cibernética, que são essenciais para a vaga."
+    },
+    "compatibilidade_geografica": {
+      "nota": 10,
+      "justificativa": "A vaga é para trabalho remoto, portanto a localização geográfica do candidato não impacta sua capacidade de desempenhar as funções requeridas."
+    },
+    "alinhamento_educacional": {
+      "nota": 9,
+      "justificativa": "O candidato possui formação superior e doutorado em Ciência da Computação pela USP, o que é altamente relevante para a vaga, embora a especialização não seja especificamente em segurança cibernética."
+    },
+    "valor_diferenciais": {
+      "nota": 1,
+      "justificativa": "O candidato não demonstra possuir os diferenciais mencionados, como experiência em ambientes de cloud computing, conhecimento em desenvolvimento seguro ou certificações adicionais em segurança da informação."
+    },
+    "score_final_ponderado": 4,
+    "pontos_fortes": [
+      "Formação acadêmica avançada em Ciência da Computação",
+      "Habilidades em Python e liderança de equipe"
+    ],
+    "pontos_de_desenvolvimento": [
+      "Falta de experiência específica em segurança cibernética e como Pentester",
+      "Ausência de habilidades com ferramentas de segurança ofensiva e metodologias específicas",
+      "Falta de diferenciais específicos para a vaga"
+    ],
+    "perguntas_sugeridas": [
+      "Você possui experiência ou formação em segurança cibernética que não foi mencionada no currículo?",
+      "Você tem interesse ou planos para obter certificações em segurança da informação?"
+    ]
+  }
+}
+2025-07-04 01:24:35,691 - {
+  "test_number": 8,
+  "resume_file": "curriculo_gerado_16_julia.pdf",
+  "job_file": "vaga_16_completa_gerente.txt",
+  "duration_seconds": 14.170597553253174,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 3,
+      "justificativa": "Julia possui habilidades em Python, TensorFlow, PyTorch, Machine Learning, Deep Learning, Sistemas de Recomendação e Análise de Dados. No entanto, a vaga requer experiência com tecnologias de desenvolvimento de software como microserviços, APIs RESTful e cloud computing, que não foram mencionadas em seu perfil."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 2,
+      "justificativa": "Julia tem experiência em desenvolvimento de software, mas apenas como Engenheira de Machine Learning Júnior desde 2023, o que indica falta de experiência em cargos de liderança e gestão de equipes, requisitos essenciais para a vaga."
+    },
+    "compatibilidade_geografica": {
+      "nota": 10,
+      "justificativa": "A vaga é para trabalho remoto, portanto, a localização geográfica de Julia não impacta sua compatibilidade com a vaga."
+    },
+    "alinhamento_educacional": {
+      "nota": 9,
+      "justificativa": "Julia possui um mestrado e um bacharelado em áreas diretamente relacionadas à vaga (Ciência da Computação e Engenharia de Computação), o que mostra um forte alinhamento educacional."
+    },
+    "valor_diferenciais": {
+      "nota": 1,
+      "justificativa": "Julia não demonstrou experiência com DevOps, práticas de CI/CD, ferramentas de gerenciamento de projetos ou certificações em gerenciamento de projetos, que são considerados diferenciais para a vaga."
+    },
+    "score_final_ponderado": 4,
+    "pontos_fortes": [
+      "Forte formação acadêmica em áreas relevantes",
+      "Habilidades técnicas em machine learning e análise de dados"
+    ],
+    "pontos_de_desenvolvimento": [
+      "Falta de experiência em liderança e gestão de equipes",
+      "Necessidade de desenvolver habilidades em tecnologias específicas de desenvolvimento de software e práticas de engenharia ágil"
+    ],
+    "perguntas_sugeridas": [
+      "Você tem experiência com gestão de equipes remotas?",
+      "Você possui conhecimento ou experiência em tecnologias de desenvolvimento de software como microserviços, APIs RESTful e cloud computing?"
+    ]
+  }
+}
+2025-07-04 01:24:53,036 - {
+  "test_number": 9,
+  "resume_file": "curriculo_gerado_17_rafael.pdf",
+  "job_file": "vaga_17_completa_desenvolvedor.txt",
+  "duration_seconds": 17.344502687454224,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 1,
+      "justificativa": "O candidato possui experiência significativa como DBA, mas não demonstra conhecimento ou experiência com Unreal Engine, C++, ou desenvolvimento de jogos, que são essenciais para a vaga."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 2,
+      "justificativa": "Embora o candidato tenha experiência em tecnologia e gestão de equipes, sua experiência não está diretamente relacionada ao desenvolvimento de jogos ou ao uso das tecnologias específicas mencionadas nos requisitos da vaga."
+    },
+    "compatibilidade_geografica": {
+      "nota": 1,
+      "justificativa": "A vaga é para trabalho híbrido em São Paulo, SP, e o candidato está localizado em Niterói, RJ, o que pode representar um desafio logístico para a adesão ao modelo de trabalho proposto."
+    },
+    "alinhamento_educacional": {
+      "nota": 8,
+      "justificativa": "O candidato possui graduação em Ciência da Computação, o que alinha bem com os requisitos educacionais da vaga."
+    },
+    "valor_diferenciais": {
+      "nota": 0,
+      "justificativa": "O candidato não apresenta nenhum dos diferenciais listados para a vaga, como experiência em estúdios de jogos, conhecimento em design de jogos, VR/AR, ou desenvolvimento para plataformas móveis."
+    },
+    "score_final_ponderado": 2,
+    "pontos_fortes": [
+      "Formação acadêmica adequada"
+    ],
+    "pontos_de_desenvolvimento": [
+      "Falta de experiência com tecnologias e práticas específicas da indústria de jogos",
+      "Necessidade de realocação ou ajuste para o trabalho híbrido"
+    ],
+    "perguntas_sugeridas": [
+      "Você tem experiência ou interesse em aprender sobre desenvolvimento de jogos, especialmente com Unreal Engine?",
+      "Você estaria disposto a se realocar para São Paulo ou a viajar frequentemente para cumprir o requisito de trabalho híbrido?"
+    ]
+  }
+}
+2025-07-04 01:25:06,282 - Erro no teste #10 (curriculo_gerado_18_lucas.pdf vs vaga_18_completa_ux.txt): 500 Server Error: Internal Server Error for url: http://127.0.0.1:8000/analisar_curriculo
+2025-07-04 01:25:30,083 - {
+  "test_number": 11,
+  "resume_file": "curriculo_gerado_19_ricardo.pdf",
+  "job_file": "vaga_19_completa_administrador.txt",
+  "duration_seconds": 23.799927711486816,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 9,
+      "justificativa": "O candidato possui sólida experiência com Linux, Kubernetes, Python e outras tecnologias relevantes para a vaga, embora não mencione especificamente todas as ferramentas listadas como essenciais (como Nagios, Zabbix, Ansible)."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 9,
+      "justificativa": "Ricardo tem mais de 10 anos de experiência em áreas relevantes, incluindo cargos de Engenheiro DevOps, que se alinham bem com as responsabilidades descritas para a vaga de Administrador de Sistemas Linux Sênior."
+    },
+    "compatibilidade_geografica": {
+      "nota": 0,
+      "justificativa": "A vaga é presencial em Fortaleza, CE, enquanto o candidato está localizado em São Paulo, SP, indicando uma incompatibilidade geográfica significativa."
+    },
+    "alinhamento_educacional": {
+      "nota": 8,
+      "justificativa": "Ricardo possui formação em Engenharia da Computação pela Universidade de São Paulo, que é altamente relevante para a vaga, embora a vaga especifique preferência por formações em Ciência da Computação ou Sistemas de Informação."
+    },
+    "valor_diferenciais": {
+      "nota": 7,
+      "justificativa": "O candidato possui experiência com tecnologias de cloud e automação, que são mencionadas como diferenciais. No entanto, não há menção de certificações específicas em Linux ou fluência em inglês técnico."
+    },
+    "score_final_ponderado": 6,
+    "pontos_fortes": [
+      "Experiência relevante em DevOps e administração de sistemas",
+      "Formação técnica sólida e relevante",
+      "Habilidades técnicas alinhadas com várias das exigências da vaga"
+    ],
+    "pontos_de_desenvolvimento": [
+      "Localização geográfica incompatível com a exigência da vaga",
+      "Falta de algumas certificações específicas e habilidades mencionadas como diferenciais"
+    ],
+    "perguntas_sugeridas": [
+      "Você estaria disposto a se realocar para Fortaleza, CE?",
+      "Você possui certificações em Linux ou experiência com as ferramentas de monitoração e gerenciamento especificadas na descrição da vaga?"
+    ]
+  }
+}
+2025-07-04 01:25:45,268 - {
+  "test_number": 12,
+  "resume_file": "curriculo_gerado_1_diego.pdf",
+  "job_file": "vaga_1_completa_analista.txt",
+  "duration_seconds": 15.18464732170105,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 2,
+      "justificativa": "O candidato possui experiência significativa em desenvolvimento frontend, mas não demonstra conhecimento nas ferramentas de segurança específicas mencionadas nos requisitos essenciais da vaga, como firewalls, antivírus e sistemas de detecção de intrusões."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 3,
+      "justificativa": "Embora o candidato tenha experiência em desenvolvimento e gestão de projetos, sua experiência não está diretamente relacionada à segurança da informação, que é o foco principal da vaga."
+    },
+    "compatibilidade_geografica": {
+      "nota": 1,
+      "justificativa": "A vaga é para trabalho híbrido em Brasília - DF, enquanto o candidato está localizado em Curitiba, PR, indicando uma incompatibilidade geográfica significativa."
+    },
+    "alinhamento_educacional": {
+      "nota": 7,
+      "justificativa": "O candidato possui formação em Tecnologia da Informação, que é relevante para a vaga, embora não seja especificamente em Segurança da Informação."
+    },
+    "valor_diferenciais": {
+      "nota": 1,
+      "justificativa": "O candidato não possui as certificações em segurança da informação listadas como diferenciais, nem experiência prévia em estágios ou projetos relacionados à segurança da informação."
+    },
+    "score_final_ponderado": 2,
+    "pontos_fortes": [
+      "Formação em Tecnologia da Informação relevante para a área de atuação."
+    ],
+    "pontos_de_desenvolvimento": [
+      "Falta de experiência e conhecimento específico em segurança da informação.",
+      "Incompatibilidade geográfica para o trabalho híbrido requerido."
+    ],
+    "perguntas_sugeridas": [
+      "Você possui alguma experiência ou formação adicional em segurança da informação que não foi mencionada no currículo?",
+      "Você estaria disposto a se mudar para Brasília ou a viajar frequentemente para cumprir os requisitos do trabalho híbrido?"
+    ]
+  }
+}
+2025-07-04 01:26:06,151 - {
+  "test_number": 13,
+  "resume_file": "curriculo_gerado_1_juliana.pdf",
+  "job_file": "vaga_1_completa_desenvolvedor.txt",
+  "duration_seconds": 20.88254165649414,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 0,
+      "justificativa": "O candidato não possui experiência ou habilidades técnicas relacionadas ao desenvolvimento backend ou à linguagem Go (Golang), que são essenciais para a vaga."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 0,
+      "justificativa": "A experiência do candidato está focada em recrutamento técnico e gestão de processos de seleção, sem qualquer relação com desenvolvimento de software ou áreas técnicas específicas da vaga."
+    },
+    "compatibilidade_geografica": {
+      "nota": 10,
+      "justificativa": "A modalidade da vaga é híbrida e tanto a vaga quanto o candidato estão localizados em São Paulo, SP, portanto, há total compatibilidade geográfica."
+    },
+    "alinhamento_educacional": {
+      "nota": 0,
+      "justificativa": "A formação do candidato em Psicologia não é relevante para a posição de Desenvolvedor Backend, que geralmente requer formação em áreas de tecnologia ou engenharia."
+    },
+    "valor_diferenciais": {
+      "nota": 0,
+      "justificativa": "O candidato não possui os diferenciais listados para a vaga, como experiência em fintechs, conhecimento em Docker/Kubernetes, práticas de DevOps, ou contribuições para projetos de código aberto."
+    },
+    "score_final_ponderado": 1,
+    "pontos_fortes": [],
+    "pontos_de_desenvolvimento": [
+      "O candidato não possui experiência ou formação relevante para a posição de Desenvolvedor Backend. Seria necessário um redirecionamento completo de carreira e formação técnica específica.",
+      "A localização e modalidade de trabalho estão claras, mas é importante verificar se o candidato está disposto a trabalhar em um modelo híbrido."
+    ],
+    "perguntas_sugeridas": [
+      "Você tem interesse ou planos para transição de carreira para áreas técnicas, especificamente desenvolvimento de software?",
+      "Você possui alguma formação ou experiência em tecnologia que não foi mencionada no currículo?"
+    ]
+  }
+}
+2025-07-04 01:26:24,490 - {
+  "test_number": 14,
+  "resume_file": "curriculo_gerado_1_rodrigo.pdf",
+  "job_file": "vaga_1_completa_engenheiro(a).txt",
+  "duration_seconds": 18.337841749191284,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 4,
+      "justificativa": "O candidato possui experiência em desenvolvimento de software e gerenciamento de projetos, mas não demonstra conhecimento específico em sistemas operacionais, redes ou protocolos de comunicação, que são essenciais para a vaga de suporte técnico."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 6,
+      "justificativa": "Rodrigo tem experiência significativa em desenvolvimento de software, mas sua experiência direta em suporte técnico, especialmente em ambientes SaaS B2B, não é claramente evidenciada."
+    },
+    "compatibilidade_geografica": {
+      "nota": 1,
+      "justificativa": "A vaga é híbrida em Curitiba, PR, e o candidato está localizado em Campinas, SP, o que pode representar um desafio logístico para o cumprimento dos requisitos presenciais da posição."
+    },
+    "alinhamento_educacional": {
+      "nota": 8,
+      "justificativa": "Rodrigo possui formação em Ciência da Computação pela UNICAMP, o que é altamente relevante para a vaga, embora a posição demande mais foco em suporte do que em desenvolvimento."
+    },
+    "valor_diferenciais": {
+      "nota": 2,
+      "justificativa": "O candidato não menciona possuir certificações em tecnologias de suporte ou experiência com ferramentas de ticketing e CRM, que são considerados diferenciais para a vaga."
+    },
+    "score_final_ponderado": 4,
+    "pontos_fortes": [
+      "Formação acadêmica relevante em Ciência da Computação",
+      "Experiência em liderança e desenvolvimento de software"
+    ],
+    "pontos_de_desenvolvimento": [
+      "Falta de experiência específica em suporte técnico, especialmente em SaaS B2B",
+      "Necessidade de desenvolver conhecimentos em sistemas operacionais, redes e protocolos de comunicação",
+      "Ausência de certificações em tecnologias de suporte"
+    ],
+    "perguntas_sugeridas": [
+      "Você possui experiência ou certificações em suporte técnico que não foram mencionadas no currículo?",
+      "Você estaria disposto a mudar para Curitiba ou frequentemente viajar para lá, considerando a modalidade híbrida da vaga?"
+    ]
+  }
+}
+2025-07-04 01:26:39,753 - {
+  "test_number": 15,
+  "resume_file": "curriculo_gerado_20_carlos.pdf",
+  "job_file": "vaga_20_completa_consultor.txt",
+  "duration_seconds": 15.263360500335693,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 2,
+      "justificativa": "O candidato possui experiência em segurança de nuvem e automação, mas não demonstra conhecimento específico nas funcionalidades do Salesforce, que são essenciais para a vaga."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 4,
+      "justificativa": "Carlos tem experiência relevante em tecnologia e projetos, mas sua experiência como consultor funcional Salesforce ou em projetos de implementação específicos do Salesforce não é evidente."
+    },
+    "compatibilidade_geografica": {
+      "nota": 10,
+      "justificativa": "A vaga é remota, portanto, a localização geográfica do candidato não impacta sua capacidade de desempenhar as funções requeridas."
+    },
+    "alinhamento_educacional": {
+      "nota": 8,
+      "justificativa": "Carlos possui formação em Ciência da Computação, o que é relevante para a área tecnológica da vaga, embora não seja especificamente focado em administração ou áreas diretamente relacionadas ao Salesforce."
+    },
+    "valor_diferenciais": {
+      "nota": 1,
+      "justificativa": "O candidato não menciona possuir certificações Salesforce ou experiência com metodologias ágeis, que são considerados diferenciais para a vaga."
+    },
+    "score_final_ponderado": 5,
+    "pontos_fortes": [
+      "Experiência em tecnologia e segurança de nuvem",
+      "Formação em Ciência da Computação",
+      "Capacidade de trabalhar remotamente"
+    ],
+    "pontos_de_desenvolvimento": [
+      "Desenvolver conhecimentos e habilidades específicas do Salesforce",
+      "Obter certificações relevantes para a vaga",
+      "Ganhar experiência com metodologias ágeis"
+    ],
+    "perguntas_sugeridas": [
+      "Você possui experiência ou certificações específicas em Salesforce que não foram mencionadas no currículo?",
+      "Você tem experiência com metodologias ágeis em projetos?"
+    ]
+  }
+}
+2025-07-04 01:26:58,556 - {
+  "test_number": 16,
+  "resume_file": "curriculo_gerado_21_eduardo.pdf",
+  "job_file": "vaga_21_completa_engenheiro(a).txt",
+  "duration_seconds": 18.802047729492188,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 8,
+      "justificativa": "O candidato possui experiência sólida com Python, Docker e Kubernetes, que são relevantes para a vaga. No entanto, não há menção explícita de experiência com ferramentas de monitoramento específicas como Prometheus ou Grafana, nem com linguagens como Go ou Java, que são mencionadas como essenciais na descrição da vaga."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 9,
+      "justificativa": "Eduardo tem uma experiência robusta em administração de sistemas e práticas de automação, que são fundamentais para a função de SRE. Sua experiência como SysAdmin Sênior e liderança de equipe técnica alinha-se bem com as responsabilidades descritas para a vaga."
+    },
+    "compatibilidade_geografica": {
+      "nota": 10,
+      "justificativa": "A vaga é para trabalho remoto, portanto, a localização geográfica do candidato não impacta sua capacidade de desempenhar as funções requeridas."
+    },
+    "alinhamento_educacional": {
+      "nota": 10,
+      "justificativa": "Eduardo possui um bacharelado em Ciência da Computação pela Universidade Federal do Rio Grande do Sul, o que se alinha perfeitamente com os requisitos educacionais da vaga."
+    },
+    "valor_diferenciais": {
+      "nota": 7,
+      "justificativa": "O candidato possui experiência com Docker e Kubernetes, que são mencionados como diferenciais. No entanto, não há evidências de experiência em plataformas de streaming, metodologias ágeis ou certificações específicas em SRE, DevOps ou Cloud Computing."
+    },
+    "score_final_ponderado": 9,
+    "pontos_fortes": [
+      "Experiência sólida em administração de sistemas e automação",
+      "Formação acadêmica alinhada com os requisitos da vaga",
+      "Habilidades técnicas em Python, Docker e Kubernetes"
+    ],
+    "pontos_de_desenvolvimento": [
+      "Aprofundar conhecimentos em ferramentas de monitoramento específicas como Prometheus ou Grafana",
+      "Ganhar experiência em plataformas de streaming e obter certificações relevantes"
+    ],
+    "perguntas_sugeridas": [
+      "Você tem experiência com ferramentas de monitoramento como Prometheus ou Grafana?",
+      "Você possui certificações em SRE, DevOps ou Cloud Computing?"
+    ]
+  }
+}
+2025-07-04 01:27:19,628 - Erro no teste #17 (curriculo_gerado_22_luiz.pdf vs vaga_22_completa_estágio.txt): 500 Server Error: Internal Server Error for url: http://127.0.0.1:8000/analisar_curriculo
+2025-07-04 01:27:38,647 - {
+  "test_number": 18,
+  "resume_file": "curriculo_gerado_23_lucas.pdf",
+  "job_file": "vaga_23_completa_desenvolvedor(a).txt",
+  "duration_seconds": 19.018101453781128,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 3,
+      "justificativa": "O candidato possui experiência em desenvolvimento e manutenção de testes automatizados, mas não há evidências diretas de experiência com desenvolvimento WordPress, personalização de temas e plugins, ou uso de HTML, CSS, JavaScript e PHP especificamente para desenvolvimento web, que são essenciais para a vaga."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 4,
+      "justificativa": "O candidato tem experiência relevante em análise e testes de software, o que pode ser útil, mas não é diretamente alinhado com o desenvolvimento WordPress especificado como essencial na descrição da vaga."
+    },
+    "compatibilidade_geografica": {
+      "nota": 10,
+      "justificativa": "A vaga é para trabalho remoto, portanto a localização geográfica do candidato não impacta sua capacidade de desempenhar as funções requeridas."
+    },
+    "alinhamento_educacional": {
+      "nota": 8,
+      "justificativa": "O candidato possui um bacharelado em Ciência da Computação, o que fornece uma base sólida de conhecimento técnico relevante para a área de desenvolvimento de software, embora não seja específico para WordPress."
+    },
+    "valor_diferenciais": {
+      "nota": 1,
+      "justificativa": "O candidato não demonstrou experiência com e-commerce em WordPress, ferramentas de automação de marketing, ou familiaridade com metodologias ágeis, que são listados como diferenciais para a vaga."
+    },
+    "score_final_ponderado": 5,
+    "pontos_fortes": [
+      "Formação em Ciência da Computação",
+      "Experiência em desenvolvimento e manutenção de testes automatizados"
+    ],
+    "pontos_de_desenvolvimento": [
+      "Falta de experiência específica com WordPress e tecnologias web essenciais (HTML, CSS, JavaScript, PHP)",
+      "Falta de experiência com e-commerce e ferramentas de automação de marketing"
+    ],
+    "perguntas_sugeridas": [
+      "Você tem experiência com desenvolvimento WordPress, incluindo personalização de temas e plugins?",
+      "Você tem experiência com e-commerce em WordPress ou ferramentas de automação de marketing?"
+    ]
+  }
+}
+2025-07-04 01:27:58,154 - {
+  "test_number": 19,
+  "resume_file": "curriculo_gerado_24_lucas.pdf",
+  "job_file": "vaga_24_completa_analista.txt",
+  "duration_seconds": 19.50716996192932,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 2,
+      "justificativa": "O candidato possui experiência em testes de performance e automação, mas não demonstra experiência direta ou habilidades específicas em infraestrutura de cloud ou Microsoft Azure, que são essenciais para a vaga."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 4,
+      "justificativa": "Lucas tem experiência relevante em engenharia e testes de software, mas sua experiência não é diretamente alinhada com infraestrutura de cloud, que é o foco principal da vaga."
+    },
+    "compatibilidade_geografica": {
+      "nota": 1,
+      "justificativa": "A vaga é para trabalho híbrido no Rio de Janeiro, e o candidato está localizado em Curitiba, PR, o que pode representar um desafio logístico para o cumprimento dos requisitos presenciais da posição."
+    },
+    "alinhamento_educacional": {
+      "nota": 8,
+      "justificativa": "O candidato possui graduação em Engenharia de Computação, que é relevante e alinhada com os requisitos educacionais da vaga."
+    },
+    "valor_diferenciais": {
+      "nota": 3,
+      "justificativa": "Lucas possui experiência com CI/CD, que é mencionado como diferencial, mas não possui outros diferenciais listados como experiência em ambientes de energia, outras plataformas de cloud, ou fluência em inglês."
+    },
+    "score_final_ponderado": 3,
+    "pontos_fortes": [
+      "Formação em Engenharia de Computação alinhada com os requisitos da vaga",
+      "Experiência em liderança de equipe e automação de processos"
+    ],
+    "pontos_de_desenvolvimento": [
+      "Falta de experiência específica em infraestrutura de cloud e Microsoft Azure",
+      "Localização geográfica não alinhada com a modalidade híbrida da vaga"
+    ],
+    "perguntas_sugeridas": [
+      "Você tem experiência ou formação adicional em infraestrutura de cloud, especialmente com Microsoft Azure, que não foi mencionada no currículo?",
+      "Você estaria disposto a realocar-se para o Rio de Janeiro ou a viajar frequentemente para cumprir os requisitos presenciais da vaga?"
+    ]
+  }
+}
+2025-07-04 01:28:11,735 - {
+  "test_number": 20,
+  "resume_file": "curriculo_gerado_25_joão.pdf",
+  "job_file": "vaga_25_completa_tech.txt",
+  "duration_seconds": 13.580587387084961,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 2,
+      "justificativa": "O candidato possui experiência em teste de software, mas não demonstra experiência direta com React ou desenvolvimento frontend, que são essenciais para a vaga."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 3,
+      "justificativa": "O candidato tem experiência como estagiário em teste de software, mas não possui experiência em liderança técnica ou coordenação de equipes, que são requisitos essenciais para a posição de Tech Lead."
+    },
+    "compatibilidade_geografica": {
+      "nota": 10,
+      "justificativa": "A vaga é remota, portanto a localização geográfica do candidato não impacta sua capacidade de ocupar a posição."
+    },
+    "alinhamento_educacional": {
+      "nota": 8,
+      "justificativa": "O candidato possui formação em Ciência da Computação, o que é altamente relevante para a posição, embora não seja especificamente focado em desenvolvimento frontend."
+    },
+    "valor_diferenciais": {
+      "nota": 1,
+      "justificativa": "O candidato não demonstra possuir os diferenciais listados, como experiência em e-commerce, TypeScript, testes automatizados, metodologias ágeis ou contribuições para projetos open source."
+    },
+    "score_final_ponderado": 4,
+    "pontos_fortes": [
+      "Formação em Ciência da Computação",
+      "Experiência em teste de software",
+      "Habilidade de comunicação e trabalho em equipe"
+    ],
+    "pontos_de_desenvolvimento": [
+      "Desenvolver habilidades específicas em React e tecnologias associadas",
+      "Ganhar experiência em liderança técnica e coordenação de equipes",
+      "Adquirir conhecimento em TypeScript e testes automatizados"
+    ],
+    "perguntas_sugeridas": [
+      "Você tem experiência com React ou outras tecnologias de desenvolvimento frontend?",
+      "Você já liderou equipes ou projetos anteriormente?",
+      "Você tem experiência ou conhecimento em TypeScript e testes automatizados?"
+    ]
+  }
+}
+2025-07-04 01:28:34,392 - {
+  "test_number": 21,
+  "resume_file": "curriculo_gerado_26_joão.pdf",
+  "job_file": "vaga_26_completa_desenvolvedor(a).txt",
+  "duration_seconds": 22.6562716960907,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 3,
+      "justificativa": "O candidato possui experiência em engenharia de software e desenvolvimento ágil, mas não há menção específica de experiência com Elixir ou Phoenix, que são requisitos essenciais para a vaga."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 7,
+      "justificativa": "João Pedro tem experiência significativa em engenharia de software e gestão de produtos SaaS, o que é relevante, mas não diretamente alinhado com o nível de especialização em Elixir e Phoenix exigido."
+    },
+    "compatibilidade_geografica": {
+      "nota": 10,
+      "justificativa": "A vaga é remota, portanto, a localização geográfica do candidato não impacta sua capacidade de ocupar a posição."
+    },
+    "alinhamento_educacional": {
+      "nota": 8,
+      "justificativa": "O candidato possui formação em Engenharia de Software pela Universidade Federal de Santa Catarina, o que é altamente relevante para a posição."
+    },
+    "valor_diferenciais": {
+      "nota": 4,
+      "justificativa": "João Pedro possui experiência em liderança e desenvolvimento de software, mas não apresenta os diferenciais específicos mencionados, como experiência em startups de jogos ou apostas, ou conhecimento em outras linguagens de programação mencionadas."
+    },
+    "score_final_ponderado": 6,
+    "pontos_fortes": [
+      "Experiência em engenharia de software",
+      "Formação relevante em Engenharia de Software",
+      "Experiência em gestão de produtos SaaS"
+    ],
+    "pontos_de_desenvolvimento": [
+      "Desenvolver habilidades específicas em Elixir e Phoenix",
+      "Ganhar experiência em startups de jogos ou apostas",
+      "Aprender outras linguagens de programação mencionadas como diferenciais"
+    ],
+    "perguntas_sugeridas": [
+      "Você tem experiência com Elixir ou Phoenix que não foi mencionada no currículo?",
+      "Você tem interesse ou experiência em startups no setor de jogos ou apostas?"
+    ]
+  }
+}
+2025-07-04 01:28:54,064 - {
+  "test_number": 22,
+  "resume_file": "curriculo_gerado_27_larissa.pdf",
+  "job_file": "vaga_27_incompleta_vaga.txt",
+  "duration_seconds": 19.67266845703125,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 4,
+      "justificativa": "A candidata possui experiência relevante em metodologias ágeis e liderança de equipes de desenvolvimento, mas não há informações específicas sobre habilidades técnicas de programação, que são essenciais para a vaga de desenvolvedor."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 8,
+      "justificativa": "Larissa tem uma sólida experiência como Scrum Master, gerenciando equipes de desenvolvimento e implementando metodologias ágeis, o que é altamente relevante para o ambiente dinâmico descrito na vaga."
+    },
+    "compatibilidade_geografica": {
+      "nota": 10,
+      "justificativa": "A cidade da vaga não foi especificada e a modalidade de trabalho ainda está em discussão, presumindo-se flexibilidade geográfica."
+    },
+    "alinhamento_educacional": {
+      "nota": 7,
+      "justificativa": "Larissa possui formação em Gestão da Tecnologia da Informação, o que é relevante para a vaga, embora não seja uma formação técnica específica em desenvolvimento de software."
+    },
+    "valor_diferenciais": {
+      "nota": 8,
+      "justificativa": "A experiência de Larissa em metodologias ágeis e ambientes de alta pressão são considerados diferenciais para a vaga, conforme mencionado nos requisitos."
+    },
+    "score_final_ponderado": 7,
+    "pontos_fortes": [
+      "Experiência em gestão de equipes de desenvolvimento",
+      "Conhecimento em metodologias ágeis",
+      "Capacidade de liderança e comunicação"
+    ],
+    "pontos_de_desenvolvimento": [
+      "Falta de habilidades técnicas específicas de desenvolvimento de software",
+      "Necessidade de esclarecer a localização exata e a modalidade de trabalho da vaga"
+    ],
+    "perguntas_sugeridas": [
+      "Pode fornecer detalhes sobre suas habilidades técnicas específicas de desenvolvimento de software?",
+      "Qual é a localização exata e a modalidade de trabalho para esta vaga?"
+    ]
+  }
+}
+2025-07-04 01:29:15,079 - {
+  "test_number": 23,
+  "resume_file": "curriculo_gerado_28_lucas.pdf",
+  "job_file": "vaga_28_incompleta_vaga.txt",
+  "duration_seconds": 21.013651609420776,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 2,
+      "justificativa": "O candidato possui experiência em gestão ágil e liderança de equipes, mas não há evidências de habilidades técnicas específicas de desenvolvimento Full Stack, que são essenciais para a vaga."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 7,
+      "justificativa": "Lucas tem uma sólida experiência em gestão ágil e liderança, o que é relevante para a vaga que exige proficiência em metodologias ágeis e trabalho em equipe. No entanto, a falta de experiência direta em desenvolvimento de software limita a pontuação."
+    },
+    "compatibilidade_geografica": {
+      "nota": 5,
+      "justificativa": "A localização da vaga não foi especificada, e o candidato está em São Paulo, SP. A modalidade é híbrida, mas sem uma localização clara, é difícil avaliar a compatibilidade geográfica completa."
+    },
+    "alinhamento_educacional": {
+      "nota": 4,
+      "justificativa": "Lucas possui formação em Administração de Empresas, que pode contribuir com habilidades de gestão para a equipe, mas não está diretamente alinhada com as exigências técnicas de uma vaga de Programador Full Stack."
+    },
+    "valor_diferenciais": {
+      "nota": 6,
+      "justificativa": "O candidato demonstra vontade de aprender e liderar equipes, o que são diferenciais mencionados na descrição da vaga. No entanto, não há menção específica sobre experiência com ferramentas de integração contínua ou tendências tecnológicas."
+    },
+    "score_final_ponderado": 5,
+    "pontos_fortes": [
+      "Experiência em gestão ágil e liderança de equipes",
+      "Capacidade de treinamento e desenvolvimento",
+      "Experiência com metodologias ágeis"
+    ],
+    "pontos_de_desenvolvimento": [
+      "Falta de habilidades técnicas específicas para desenvolvimento Full Stack",
+      "Formação não diretamente relacionada à programação"
+    ],
+    "perguntas_sugeridas": [
+      "Você tem experiência ou formação específica em desenvolvimento de software que não foi mencionada?",
+      "Pode fornecer mais detalhes sobre sua experiência com tecnologias e frameworks modernos?"
+    ]
+  }
+}
+2025-07-04 01:29:31,396 - {
+  "test_number": 24,
+  "resume_file": "curriculo_gerado_29_renata.pdf",
+  "job_file": "vaga_29_incompleta_vaga.txt",
+  "duration_seconds": 16.3165922164917,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 2,
+      "justificativa": "As habilidades técnicas do candidato estão focadas em design gráfico e UX/UI, que não se alinham diretamente com os requisitos de TI, como troubleshooting e suporte técnico, mencionados na descrição da vaga."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 3,
+      "justificativa": "A experiência do candidato é relevante no setor de tecnologia, mas está concentrada em design e UX/UI, não cobrindo diretamente a gestão e manutenção de equipamentos de informática como requerido pela vaga."
+    },
+    "compatibilidade_geografica": {
+      "nota": 10,
+      "justificativa": "A localidade da vaga não foi especificada e a modalidade de trabalho está aberta para discussão, presumindo-se flexibilidade geográfica."
+    },
+    "alinhamento_educacional": {
+      "nota": 1,
+      "justificativa": "A formação em Design Gráfico não é diretamente relevante para as responsabilidades de um Especialista em TI, que geralmente requer conhecimentos mais técnicos e específicos da área."
+    },
+    "valor_diferenciais": {
+      "nota": 1,
+      "justificativa": "Os diferenciais do candidato, como habilidades em design e gestão de projetos, não se alinham com os diferenciais esperados para a vaga, que seriam mais técnicos e específicos para TI."
+    },
+    "score_final_ponderado": 3,
+    "pontos_fortes": [
+      "Flexibilidade geográfica devido à falta de especificação da localidade da vaga."
+    ],
+    "pontos_de_desenvolvimento": [
+      "Necessidade de desenvolver habilidades técnicas específicas para TI, como troubleshooting e suporte técnico.",
+      "Esclarecer a localização exata e a modalidade de trabalho da vaga."
+    ],
+    "perguntas_sugeridas": [
+      "Pode a candidata fornecer exemplos de experiência em manutenção ou suporte técnico de sistemas?",
+      "A candidata está disposta a adquirir habilidades técnicas específicas para a vaga proposta?"
+    ]
+  }
+}
+2025-07-04 01:29:47,205 - {
+  "test_number": 25,
+  "resume_file": "curriculo_gerado_2_leticia.pdf",
+  "job_file": "vaga_2_completa_engenheira.txt",
+  "duration_seconds": 15.80849003791809,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 7,
+      "justificativa": "Leticia possui sólida experiência com Python e SQL, que são essenciais para a vaga. No entanto, não há evidências diretas de experiência com Azure Data Factory ou Databricks, que são requisitos essenciais para a posição."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 6,
+      "justificativa": "Leticia tem experiência relevante em análise de dados e machine learning, mas sua experiência profissional está mais focada em pesquisa acadêmica do que em engenharia de dados aplicada, especialmente em ambientes corporativos como o exigido pela vaga."
+    },
+    "compatibilidade_geografica": {
+      "nota": 1,
+      "justificativa": "A vaga é para trabalho híbrido em Brasília, DF, enquanto Leticia está localizada em Belo Horizonte, MG. Isso pode representar um desafio logístico significativo, a menos que haja disposição para realocação."
+    },
+    "alinhamento_educacional": {
+      "nota": 9,
+      "justificativa": "Leticia tem uma formação robusta em Ciência da Computação e um mestrado em Inteligência Artificial pela Universidade Federal de Minas Gerais, o que é altamente relevante para a posição."
+    },
+    "valor_diferenciais": {
+      "nota": 5,
+      "justificativa": "Ela possui habilidades em machine learning e análise de dados, que são valorizadas como diferenciais. No entanto, não possui certificações específicas em Azure ou Databricks, nem experiência em ambientes de bancos ou instituições financeiras."
+    },
+    "score_final_ponderado": 5,
+    "pontos_fortes": [
+      "Formação acadêmica robusta em áreas relevantes",
+      "Proficiência em Python e SQL, essenciais para a vaga"
+    ],
+    "pontos_de_desenvolvimento": [
+      "Falta de experiência direta com Azure Data Factory e Databricks",
+      "Experiência limitada em ambientes corporativos, especialmente em bancos"
+    ],
+    "perguntas_sugeridas": [
+      "Você está disposta a se realocar para Brasília, caso seja necessário para a vaga?",
+      "Você tem experiência ou formação adicional em Azure Data Factory ou Databricks que não foi mencionada?"
+    ]
+  }
+}
+2025-07-04 01:30:06,855 - {
+  "test_number": 26,
+  "resume_file": "curriculo_gerado_2_lucas.pdf",
+  "job_file": "vaga_2_incompleta_vaga.txt",
+  "duration_seconds": 19.649415254592896,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 8,
+      "justificativa": "O candidato possui experiência relevante em desenvolvimento de software com tecnologias como JavaScript, React, Node.js, e também em blockchain com Solidity e Ethereum, que são altamente especializadas e indicam uma forte base técnica. Embora as tecnologias específicas da vaga não tenham sido detalhadas, a experiência do candidato cobre uma gama ampla e relevante para muitos contextos de desenvolvimento."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 9,
+      "justificativa": "Lucas tem experiência sólida como desenvolvedor de software, tanto em nível júnior quanto pleno, e em empresas que parecem ter um foco em inovação tecnológica. Sua experiência em otimização e segurança de contratos, além de melhorias de performance em aplicações, alinha-se bem com a descrição da vaga que busca alguém com mentalidade de growth hacker e foco em soluções impactantes."
+    },
+    "compatibilidade_geografica": {
+      "nota": 10,
+      "justificativa": "A modalidade da vaga é flexível, sendo 'Remoto ou Presencial', e a localidade não foi especificada. Isso sugere que a localização do candidato não é uma barreira para a aplicação."
+    },
+    "alinhamento_educacional": {
+      "nota": 9,
+      "justificativa": "Lucas é formado em Ciência da Computação pela Universidade Federal de Ouro Preto, uma formação altamente relevante para a posição de desenvolvedor de software. Isso indica um forte alinhamento educacional com as necessidades da vaga."
+    },
+    "valor_diferenciais": {
+      "nota": 7,
+      "justificativa": "O candidato demonstra habilidades que podem ser consideradas diferenciais, como experiência com blockchain e otimização de contratos. No entanto, sem uma lista específica de diferenciais desejados pela vaga, é difícil avaliar completamente como essas habilidades se alinham como diferenciais."
+    },
+    "score_final_ponderado": 9,
+    "pontos_fortes": [
+      "Experiência técnica diversificada e especializada",
+      "Experiência comprovada em otimização e segurança",
+      "Formação educacional alinhada com a vaga"
+    ],
+    "pontos_de_desenvolvimento": [
+      "Clarificar as tecnologias específicas e diferenciais desejados pela empresa"
+    ],
+    "perguntas_sugeridas": [
+      "Quais tecnologias específicas são prioritárias para a vaga?",
+      "Há preferência por alguma modalidade de trabalho (remoto ou presencial)?"
+    ]
+  }
+}
+2025-07-04 01:30:19,234 - {
+  "test_number": 27,
+  "resume_file": "curriculo_gerado_30_bruno.pdf",
+  "job_file": "vaga_30_incompleta_vaga.txt",
+  "duration_seconds": 12.378933906555176,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 6,
+      "justificativa": "O candidato possui experiência relevante em gestão de backlog e métodos ágeis, que são habilidades úteis para um ambiente de inovação, embora não sejam exatamente as habilidades técnicas especificadas na descrição da vaga."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 8,
+      "justificativa": "Bruno tem experiência significativa como Product Owner, o que implica habilidades de liderança e trabalho em equipe, alinhadas com os requisitos de proatividade e habilidade de trabalhar em equipe da vaga."
+    },
+    "compatibilidade_geografica": {
+      "nota": 10,
+      "justificativa": "A localidade da vaga não foi especificada, presumindo-se flexibilidade geográfica."
+    },
+    "alinhamento_educacional": {
+      "nota": 7,
+      "justificativa": "Bruno possui formação em Administração pela Universidade de São Paulo, o que pode ser relevante para um ambiente de inovação, embora não seja uma formação técnica específica."
+    },
+    "valor_diferenciais": {
+      "nota": 5,
+      "justificativa": "O candidato não menciona diretamente conhecimento em ambientes de inovação, que é um diferencial desejável para a vaga."
+    },
+    "score_final_ponderado": 7,
+    "pontos_fortes": [
+      "Experiência em liderança e gestão de equipes",
+      "Formação em uma universidade de prestígio",
+      "Habilidades em métodos ágeis"
+    ],
+    "pontos_de_desenvolvimento": [
+      "Falta de conhecimento específico em ambientes de inovação",
+      "Necessidade de esclarecer a localização exata e a modalidade de trabalho da vaga"
+    ],
+    "perguntas_sugeridas": [
+      "Você tem experiência ou conhecimento específico em ambientes de inovação?",
+      "Pode nos contar mais sobre como sua experiência como Product Owner pode contribuir para um ambiente de inovação?",
+      "Qual é a sua disponibilidade para trabalhar em diferentes modalidades (remoto, presencial, híbrido)?"
+    ]
+  }
+}
+2025-07-04 01:30:38,751 - {
+  "test_number": 28,
+  "resume_file": "curriculo_gerado_31_ricardo.pdf",
+  "job_file": "vaga_31_incompleta_vaga.txt",
+  "duration_seconds": 19.516642093658447,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 7,
+      "justificativa": "O candidato possui experiência relevante em desenvolvimento de software embarcado e gestão de equipe, o que é parcialmente alinhado com as necessidades da vaga de Gerente de Tecnologia, que requer habilidades de liderança e resolução de problemas técnicos. No entanto, a vaga parece demandar uma gama mais ampla de habilidades tecnológicas, incluindo suporte técnico e capacidade de trabalhar em ambientes dinâmicos, que não são explicitamente mencionadas nas habilidades do candidato."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 8,
+      "justificativa": "Ricardo possui uma sólida experiência em desenvolvimento de software e liderança de equipe, o que é altamente relevante para a posição de Gerente de Tecnologia. Ele demonstrou capacidade de liderar projetos e otimizar processos, o que alinha bem com as responsabilidades descritas na vaga."
+    },
+    "compatibilidade_geografica": {
+      "nota": 10,
+      "justificativa": "A localidade da vaga não foi especificada, e a modalidade é híbrida. O sistema presume flexibilidade geográfica, portanto, a nota é máxima."
+    },
+    "alinhamento_educacional": {
+      "nota": 9,
+      "justificativa": "Ricardo possui formação em Engenharia da Computação pela Universidade Federal do ABC, o que é altamente relevante e adequado para a posição de Gerente de Tecnologia, garantindo um forte alinhamento educacional."
+    },
+    "valor_diferenciais": {
+      "nota": 6,
+      "justificativa": "O candidato possui habilidades em gestão de equipe e otimização de desempenho, que são valorizadas como diferenciais para a vaga. No entanto, não há menção de habilidades específicas em suporte técnico ou capacidade de trabalhar em ambientes ágeis, que também são importantes para a posição."
+    },
+    "score_final_ponderado": 8,
+    "pontos_fortes": [
+      "Experiência em liderança de equipe",
+      "Experiência em desenvolvimento de software embarcado",
+      "Formação educacional relevante"
+    ],
+    "pontos_de_desenvolvimento": [
+      "Ampliar habilidades em suporte técnico e trabalho em ambientes ágeis"
+    ],
+    "perguntas_sugeridas": [
+      "Pode fornecer exemplos de como você lidou com suporte técnico em ambientes dinâmicos?",
+      "Como você se adapta a novas tecnologias e processos em um ambiente ágil?"
+    ]
+  }
+}
+2025-07-04 01:31:00,121 - {
+  "test_number": 29,
+  "resume_file": "curriculo_gerado_32_marcos.pdf",
+  "job_file": "vaga_32_incompleta_vaga.txt",
+  "duration_seconds": 21.36918592453003,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 6,
+      "justificativa": "O candidato possui experiência em desenvolvimento de estratégias de segurança e gerenciamento de projetos, o que implica habilidades técnicas relevantes. No entanto, não há menção explícita de experiência com linguagens de programação específicas como Java ou Python, que são essenciais para a vaga."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 7,
+      "justificativa": "Marcos tem experiência significativa em ambientes técnicos e gerenciamento de projetos de segurança, o que é parcialmente alinhado com a experiência desejada em desenvolvimento de software em ambientes ágeis."
+    },
+    "compatibilidade_geografica": {
+      "nota": 10,
+      "justificativa": "A localidade da vaga não foi especificada, presumindo-se flexibilidade geográfica. A modalidade híbrida não impacta a nota, pois a localização exata não é um fator limitante."
+    },
+    "alinhamento_educacional": {
+      "nota": 8,
+      "justificativa": "Marcos possui um bacharelado em Ciência da Computação, o que é altamente relevante e alinhado com as exigências educacionais da vaga."
+    },
+    "valor_diferenciais": {
+      "nota": 5,
+      "justificativa": "O candidato possui habilidades em gerenciamento de projetos de segurança, o que pode ser considerado um diferencial. No entanto, não há menção de conhecimentos em metodologias ágeis ou certificações específicas na área de desenvolvimento, que seriam diferenciais importantes para a vaga."
+    },
+    "score_final_ponderado": 7,
+    "pontos_fortes": [
+      "Formação em Ciência da Computação",
+      "Experiência em gerenciamento de projetos técnicos",
+      "Flexibilidade geográfica"
+    ],
+    "pontos_de_desenvolvimento": [
+      "Desenvolver habilidades específicas em linguagens de programação mencionadas na vaga",
+      "Adquirir conhecimentos em metodologias ágeis e obter certificações relevantes"
+    ],
+    "perguntas_sugeridas": [
+      "Você tem experiência com as linguagens de programação Java ou Python?",
+      "Você possui alguma certificação em metodologias ágeis?"
+    ]
+  }
+}
+2025-07-04 01:31:16,731 - Erro no teste #30 (curriculo_gerado_33_laura.pdf vs vaga_33_incompleta_vaga.txt): 500 Server Error: Internal Server Error for url: http://127.0.0.1:8000/analisar_curriculo
+2025-07-04 01:31:34,214 - {
+  "test_number": 31,
+  "resume_file": "curriculo_gerado_34_carlos.pdf",
+  "job_file": "vaga_34_incompleta_vaga.txt",
+  "duration_seconds": 17.48209857940674,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 4,
+      "justificativa": "O candidato possui experiência significativa em ERP SAP e gestão de projetos, mas a vaga parece requerer habilidades mais diversificadas e inovadoras que não estão claramente mencionadas no currículo do candidato."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 8,
+      "justificativa": "Carlos tem uma sólida experiência em consultoria e gestão de projetos, o que é valioso para qualquer equipe inovadora, embora a vaga não especifique exatamente o tipo de experiência técnica necessária."
+    },
+    "compatibilidade_geografica": {
+      "nota": 10,
+      "justificativa": "A localidade da vaga não foi informada e a modalidade de trabalho está aberta a discussão, presumindo-se flexibilidade total."
+    },
+    "alinhamento_educacional": {
+      "nota": 7,
+      "justificativa": "Carlos possui formação em Sistemas de Informação pela Universidade Estadual de Campinas, o que é relevante para a área de tecnologia, embora a vaga não especifique requisitos educacionais específicos."
+    },
+    "valor_diferenciais": {
+      "nota": 5,
+      "justificativa": "Não há diferenciais específicos listados na descrição da vaga, então é difícil avaliar completamente, mas a liderança e a experiência em gestão de projetos de Carlos podem ser consideradas como diferenciais."
+    },
+    "score_final_ponderado": 7,
+    "pontos_fortes": [
+      "Experiência sólida em gestão de projetos e consultoria",
+      "Formação relevante em tecnologia"
+    ],
+    "pontos_de_desenvolvimento": [
+      "Clarificar a localidade e modalidade de trabalho da vaga",
+      "Avaliar a necessidade de habilidades técnicas mais específicas para a vaga"
+    ],
+    "perguntas_sugeridas": [
+      "Pode fornecer mais detalhes sobre as habilidades técnicas específicas necessárias para a vaga?",
+      "Qual será a localidade exata e a modalidade de trabalho?"
+    ]
+  }
+}
+2025-07-04 01:31:46,781 - {
+  "test_number": 32,
+  "resume_file": "curriculo_gerado_35_carlos.pdf",
+  "job_file": "vaga_35_incompleta_vaga.txt",
+  "duration_seconds": 12.566850662231445,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 7,
+      "justificativa": "O candidato possui experiência em desenvolvimento de software, mas as linguagens mencionadas (Delphi e VB.NET) não são modernas conforme o descrito na vaga. No entanto, a experiência em desenvolvimento e gestão de projetos é relevante."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 8,
+      "justificativa": "Carlos tem uma sólida experiência em desenvolvimento de software e liderança de equipes, o que é altamente relevante para a vaga. A experiência em metodologias ágeis também é um ponto positivo, alinhando-se com o ambiente dinâmico da empresa."
+    },
+    "compatibilidade_geografica": {
+      "nota": 10,
+      "justificativa": "A modalidade da vaga é 'Remoto ou presencial', e a localização não foi especificada, presumindo-se flexibilidade geográfica."
+    },
+    "alinhamento_educacional": {
+      "nota": 9,
+      "justificativa": "Carlos possui um bacharelado em Ciência da Computação pela Universidade de São Paulo, uma formação altamente relevante para a posição de Software Engineer."
+    },
+    "valor_diferenciais": {
+      "nota": 6,
+      "justificativa": "Carlos tem experiência em liderança e gestão de projetos, o que pode ser considerado um diferencial. No entanto, não há menção de experiência em startups ou tecnologias emergentes, que são considerados diferenciais pela vaga."
+    },
+    "score_final_ponderado": 8,
+    "pontos_fortes": [
+      "Experiência sólida em desenvolvimento de software",
+      "Liderança de equipes",
+      "Formação acadêmica relevante"
+    ],
+    "pontos_de_desenvolvimento": [
+      "Atualização em linguagens de programação modernas",
+      "Experiência em startups ou tecnologias emergentes"
+    ],
+    "perguntas_sugeridas": [
+      "Você tem experiência com alguma das linguagens de programação modernas mencionadas na descrição da vaga?",
+      "Você já trabalhou em startups ou com tecnologias emergentes?"
+    ]
+  }
+}
+2025-07-04 01:32:00,787 - {
+  "test_number": 33,
+  "resume_file": "curriculo_gerado_36_lucas.pdf",
+  "job_file": "vaga_36_incompleta_vaga.txt",
+  "duration_seconds": 14.005031824111938,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 2,
+      "justificativa": "O candidato possui experiência em desenvolvimento web e consultoria técnica, mas não demonstra conhecimento específico em IA, que é um requisito essencial para a vaga de Cientista de Dados."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 3,
+      "justificativa": "O candidato tem experiência em gerenciamento de projetos e otimização de performance, o que pode ser útil, mas não tem experiência direta em projetos de dados, que é um diferencial para a vaga."
+    },
+    "compatibilidade_geografica": {
+      "nota": 5,
+      "justificativa": "A modalidade da vaga é híbrida, mas a localização não foi especificada. A localização do candidato é conhecida (Belo Horizonte, MG), mas sem a localização exata da vaga, não é possível avaliar completamente a compatibilidade geográfica."
+    },
+    "alinhamento_educacional": {
+      "nota": 7,
+      "justificativa": "O candidato possui formação em Sistemas de Informação pela Universidade Federal de Minas Gerais, o que é relevante para a área de tecnologia e análise de dados, embora não seja especificamente focado em Ciência de Dados."
+    },
+    "valor_diferenciais": {
+      "nota": 1,
+      "justificativa": "O candidato não demonstra experiência anterior em projetos de dados, que é listado como um diferencial para a vaga."
+    },
+    "score_final_ponderado": 4,
+    "pontos_fortes": [
+      "Formação em Sistemas de Informação",
+      "Experiência em gestão de projetos e otimização de performance"
+    ],
+    "pontos_de_desenvolvimento": [
+      "Falta de experiência específica em Ciência de Dados e IA",
+      "Necessidade de esclarecer a localização exata e a modalidade de trabalho da vaga"
+    ],
+    "perguntas_sugeridas": [
+      "Você tem experiência ou formação específica em Ciência de Dados ou IA?",
+      "Pode nos fornecer mais detalhes sobre sua experiência com análise de dados?"
+    ]
+  }
+}
+2025-07-04 01:32:17,772 - Erro no teste #34 (curriculo_gerado_37_rafaela.pdf vs vaga_37_incompleta_vaga.txt): 500 Server Error: Internal Server Error for url: http://127.0.0.1:8000/analisar_curriculo
+2025-07-04 01:32:35,102 - {
+  "test_number": 35,
+  "resume_file": "curriculo_gerado_38_rafaela.pdf",
+  "job_file": "vaga_38_incompleta_vaga.txt",
+  "duration_seconds": 17.328874349594116,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 1,
+      "justificativa": "As habilidades técnicas listadas pela candidata, como Direito Digital e Proteção de Dados, não se alinham com as habilidades técnicas essenciais para a vaga de DevOps, que envolve manutenção de infraestrutura de servidores e ferramentas de monitoramento."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 1,
+      "justificativa": "A experiência profissional da candidata está focada em Direito e Proteção de Dados, não apresentando experiência relevante em DevOps ou áreas técnicas similares mencionadas na descrição da vaga."
+    },
+    "compatibilidade_geografica": {
+      "nota": 10,
+      "justificativa": "A localidade da vaga não foi especificada, presumindo-se flexibilidade geográfica."
+    },
+    "alinhamento_educacional": {
+      "nota": 1,
+      "justificativa": "A formação da candidata em Direito e Direito Digital não é relevante para a posição de DevOps, que geralmente requer formação em áreas de TI ou engenharia."
+    },
+    "valor_diferenciais": {
+      "nota": 1,
+      "justificativa": "Os diferenciais mencionados pela candidata, como experiência com Direito Digital e LGPD, não são relevantes para os diferenciais desejados na vaga, que incluem experiência com ferramentas de monitoramento e suporte técnico."
+    },
+    "score_final_ponderado": 3,
+    "pontos_fortes": [
+      "Flexibilidade geográfica devido à falta de especificação da localidade da vaga."
+    ],
+    "pontos_de_desenvolvimento": [
+      "A candidata precisa desenvolver habilidades técnicas específicas para a área de DevOps.",
+      "É necessário esclarecer a localização exata e a modalidade de trabalho da vaga."
+    ],
+    "perguntas_sugeridas": [
+      "Poderia a candidata considerar uma transição de carreira para áreas técnicas como DevOps?",
+      "Quais são as expectativas da candidata em relação à modalidade de trabalho (presencial, remoto ou híbrido)?"
+    ]
+  }
+}
+2025-07-04 01:32:50,124 - {
+  "test_number": 36,
+  "resume_file": "curriculo_gerado_3_camila.pdf",
+  "job_file": "vaga_39_incompleta_vaga.txt",
+  "duration_seconds": 15.0221586227417,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 7,
+      "justificativa": "Camila possui habilidades em HTML e CSS, que são relevantes para a vaga. No entanto, a vaga também requer conhecimento em PHP e Google Ads, áreas nas quais não há evidências de experiência ou habilidade no perfil de Camila."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 8,
+      "justificativa": "Camila tem experiência como desenvolvedora full-stack, o que é parcialmente relevante para a vaga que também envolve programação. Sua experiência recente em uma startup sugere que ela está acostumada a ambientes dinâmicos e a trabalhar em equipe, alinhando-se com as necessidades da vaga."
+    },
+    "compatibilidade_geografica": {
+      "nota": 10,
+      "justificativa": "A modalidade da vaga é híbrida, mas a localização não foi especificada, presumindo-se flexibilidade geográfica."
+    },
+    "alinhamento_educacional": {
+      "nota": 9,
+      "justificativa": "Camila possui um bacharelado em Ciência da Computação, o que é altamente relevante para a parte de programação da vaga. Embora a vaga também envolva marketing digital, sua formação técnica é um forte ponto de alinhamento."
+    },
+    "valor_diferenciais": {
+      "nota": 6,
+      "justificativa": "Camila demonstra habilidades em programação que são consideradas diferenciais para a vaga, como HTML, CSS e outras tecnologias web. No entanto, não há menção de experiência com Google Ads ou outras ferramentas específicas de marketing digital mencionadas como diferenciais na descrição da vaga."
+    },
+    "score_final_ponderado": 8,
+    "pontos_fortes": [
+      "Habilidades técnicas em programação",
+      "Formação em Ciência da Computação",
+      "Experiência em ambiente de startup"
+    ],
+    "pontos_de_desenvolvimento": [
+      "Desenvolver habilidades em Google Ads e PHP",
+      "Aprofundar conhecimentos em marketing digital"
+    ],
+    "perguntas_sugeridas": [
+      "Você tem experiência ou formação em Google Ads ou outras ferramentas de marketing digital?",
+      "Como você vê a integração entre suas habilidades de programação e as necessidades de marketing digital?"
+    ]
+  }
+}
+2025-07-04 01:33:07,991 - {
+  "test_number": 37,
+  "resume_file": "curriculo_gerado_3_gabriel.pdf",
+  "job_file": "vaga_3_completa_desenvolvedor.txt",
+  "duration_seconds": 17.866105794906616,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 2,
+      "justificativa": "O candidato possui experiência em Python e Machine Learning, mas não demonstra conhecimento nas tecnologias essenciais para a vaga, como React e TypeScript, que são fundamentais para o desenvolvimento frontend."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 4,
+      "justificativa": "Gabriel tem experiência em pesquisa e competições de aprendizado de máquina, o que mostra habilidade em programação e trabalho em equipe. No entanto, sua experiência não está diretamente relacionada ao desenvolvimento frontend, que é o foco da vaga."
+    },
+    "compatibilidade_geografica": {
+      "nota": 0,
+      "justificativa": "A vaga é presencial em Porto Alegre, RS, e o candidato está localizado em São José dos Campos, SP, o que implica em incompatibilidade geográfica para a modalidade presencial exigida."
+    },
+    "alinhamento_educacional": {
+      "nota": 8,
+      "justificativa": "Gabriel está cursando Engenharia de Computação no ITA, uma formação altamente relevante para a área de tecnologia e desenvolvimento, embora não seja específica para frontend."
+    },
+    "valor_diferenciais": {
+      "nota": 1,
+      "justificativa": "O candidato não demonstrou experiência ou conhecimento nos diferenciais listados, como experiência com React, TypeScript, Git, ou conhecimentos em UX/UI, que seriam vantajosos para a vaga."
+    },
+    "score_final_ponderado": 2,
+    "pontos_fortes": [
+      "Formação em Engenharia de Computação no ITA",
+      "Capacidade de trabalho em equipe e resolução de problemas"
+    ],
+    "pontos_de_desenvolvimento": [
+      "Desenvolver habilidades específicas em React e TypeScript",
+      "Ganhar experiência prática em desenvolvimento frontend",
+      "Considerar a relocação para Porto Alegre ou buscar vagas mais alinhadas com sua experiência atual"
+    ],
+    "perguntas_sugeridas": [
+      "Você tem interesse ou planos de se mudar para Porto Alegre para trabalhar presencialmente?",
+      "Você tem experiência ou projetos em desenvolvimento frontend que não foram mencionados?"
+    ]
+  }
+}
+2025-07-04 01:33:27,687 - {
+  "test_number": 38,
+  "resume_file": "curriculo_gerado_3_ricardo.pdf",
+  "job_file": "vaga_3_completa_engenheiro.txt",
+  "duration_seconds": 19.695695161819458,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 1,
+      "justificativa": "O candidato Ricardo Silva possui experiência em DevOps e administração de sistemas, mas não demonstra experiência ou habilidades específicas em machine learning ou em linguagens e ferramentas requeridas pela vaga, como Python, R, TensorFlow, PyTorch ou Scikit-learn."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 2,
+      "justificativa": "Ricardo tem experiência em tecnologia, mas sua experiência está focada em DevOps e administração de sistemas, não em machine learning ou desenvolvimento de sistemas de recomendação, que são essenciais para a vaga."
+    },
+    "compatibilidade_geografica": {
+      "nota": 10,
+      "justificativa": "A vaga é para trabalho remoto, portanto, a localização geográfica de Ricardo não impacta sua capacidade de ocupar a posição."
+    },
+    "alinhamento_educacional": {
+      "nota": 8,
+      "justificativa": "Ricardo possui graduação em Ciência da Computação, que é relevante e atende aos requisitos educacionais da vaga."
+    },
+    "valor_diferenciais": {
+      "nota": 0,
+      "justificativa": "Ricardo não demonstrou possuir os diferenciais mencionados na descrição da vaga, como experiência em e-commerce, conhecimento em deep learning, NLP ou ferramentas de visualização de dados."
+    },
+    "score_final_ponderado": 4,
+    "pontos_fortes": [
+      "Formação em Ciência da Computação, adequada para a área de tecnologia."
+    ],
+    "pontos_de_desenvolvimento": [
+      "Desenvolver habilidades e experiência em machine learning, especialmente em linguagens e ferramentas específicas como Python, R, TensorFlow.",
+      "Ganhar experiência em áreas diretamente relacionadas à vaga, como sistemas de recomendação e e-commerce."
+    ],
+    "perguntas_sugeridas": [
+      "Você possui experiência ou formação adicional em machine learning que não foi mencionada no currículo?",
+      "Há interesse em desenvolver habilidades específicas para atuar com machine learning em e-commerce?"
+    ]
+  }
+}
+2025-07-04 01:33:47,897 - {
+  "test_number": 39,
+  "resume_file": "curriculo_gerado_4_mariana.pdf",
+  "job_file": "vaga_40_incompleta_vaga.txt",
+  "duration_seconds": 20.210312366485596,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 1,
+      "justificativa": "A candidata Mariana possui experiência e habilidades em design de interfaces e UX/UI, mas não demonstra conhecimento ou experiência em Python ou outras linguagens de programação, que são essenciais para a automação de projetos na vaga descrita."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 2,
+      "justificativa": "Mariana tem experiência em design de interfaces, mas não possui experiência comprovada em coordenação de projetos, especialmente no setor de engenharia civil, que é um requisito essencial para a vaga."
+    },
+    "compatibilidade_geografica": {
+      "nota": 10,
+      "justificativa": "A localidade da vaga não foi especificada, presumindo-se flexibilidade geográfica. Portanto, a compatibilidade geográfica recebe nota máxima."
+    },
+    "alinhamento_educacional": {
+      "nota": 1,
+      "justificativa": "Mariana é formada em Design Gráfico, que não é diretamente relevante para a coordenação de projetos em engenharia civil, conforme exigido pela vaga."
+    },
+    "valor_diferenciais": {
+      "nota": 1,
+      "justificativa": "As habilidades de Mariana em design de interfaces e UX/UI são valiosas, mas não correspondem diretamente aos diferenciais buscados para a vaga, que foca em gestão de projetos e automação."
+    },
+    "score_final_ponderado": 3,
+    "pontos_fortes": [
+      "Habilidades em design de interfaces e UX/UI",
+      "Capacidade de melhorar a usabilidade e satisfação do usuário"
+    ],
+    "pontos_de_desenvolvimento": [
+      "Falta de experiência em coordenação de projetos",
+      "Falta de conhecimento em programação para automação",
+      "Formação não alinhada com as necessidades da vaga"
+    ],
+    "perguntas_sugeridas": [
+      "Você possui experiência ou formação em coordenação de projetos ou em engenharia civil?",
+      "Você tem conhecimento em linguagens de programação, especialmente Python, para automação de projetos?"
+    ]
+  }
+}
+2025-07-04 01:34:04,980 - {
+  "test_number": 40,
+  "resume_file": "curriculo_gerado_4_mauricio.pdf",
+  "job_file": "vaga_4_completa_analista.txt",
+  "duration_seconds": 17.082140684127808,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 6,
+      "justificativa": "O candidato possui experiência em desenvolvimento de software, mas não há menção específica sobre experiência em suporte técnico ou conhecimento em sistemas operacionais, redes e banco de dados, que são essenciais para a vaga."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 7,
+      "justificativa": "Mauricio tem experiência significativa em tecnologia e liderança de equipe, embora sua experiência seja mais voltada para desenvolvimento do que suporte técnico, que é o foco da vaga."
+    },
+    "compatibilidade_geografica": {
+      "nota": 0,
+      "justificativa": "A vaga é presencial em Curitiba, PR, e o candidato está localizado em São Paulo, SP, o que indica uma incompatibilidade geográfica para a modalidade presencial exigida."
+    },
+    "alinhamento_educacional": {
+      "nota": 9,
+      "justificativa": "Mauricio possui formação em Engenharia de Software pela Universidade de São Paulo, o que é altamente relevante para a vaga."
+    },
+    "valor_diferenciais": {
+      "nota": 3,
+      "justificativa": "O candidato não menciona possuir as certificações ou experiência com ferramentas de suporte remoto e gestão de tickets, que são considerados diferenciais para a vaga."
+    },
+    "score_final_ponderado": 4,
+    "pontos_fortes": [
+      "Formação acadêmica relevante",
+      "Experiência significativa em tecnologia e liderança"
+    ],
+    "pontos_de_desenvolvimento": [
+      "Falta de experiência específica em suporte técnico",
+      "Incompatibilidade geográfica para trabalho presencial",
+      "Falta de certificações e experiência com ferramentas de suporte listadas como diferenciais"
+    ],
+    "perguntas_sugeridas": [
+      "Você tem experiência ou conhecimento em sistemas operacionais, redes e banco de dados?",
+      "Você possui alguma das certificações mencionadas como diferenciais na vaga?",
+      "Você estaria disposto a se mudar para Curitiba, PR, para assumir a posição presencial?"
+    ]
+  }
+}
+2025-07-04 01:34:21,827 - Erro no teste #41 (curriculo_gerado_5_mateus.pdf vs vaga_4_incompleta_vaga.txt): 500 Server Error: Internal Server Error for url: http://127.0.0.1:8000/analisar_curriculo
+2025-07-04 01:34:35,510 - {
+  "test_number": 42,
+  "resume_file": "curriculo_gerado_6_lucas.pdf",
+  "job_file": "vaga_5_completa_product.txt",
+  "duration_seconds": 13.68266773223877,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 3,
+      "justificativa": "O candidato possui experiência em desenvolvimento web com HTML, CSS e JavaScript, mas não demonstra experiência direta ou habilidades em gestão de produtos, ferramentas de gerenciamento de produtos ou análise de dados, que são essenciais para a vaga de Product Manager."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 2,
+      "justificativa": "Lucas possui apenas experiência como estagiário em desenvolvimento web, o que é significativamente abaixo do nível de experiência requerido para um Product Manager, especialmente em um ambiente de tecnologia ou EdTech como exigido pela vaga."
+    },
+    "compatibilidade_geografica": {
+      "nota": 10,
+      "justificativa": "A vaga é para trabalho remoto, portanto, a localização geográfica do candidato não impacta sua capacidade de desempenhar as funções do cargo."
+    },
+    "alinhamento_educacional": {
+      "nota": 6,
+      "justificativa": "Lucas está cursando Análise e Desenvolvimento de Sistemas, o que é relevante para o setor de tecnologia, mas não é diretamente alinhado com a formação superior em Administração, Engenharia ou Design, que seria mais adequada para a posição de Product Manager."
+    },
+    "valor_diferenciais": {
+      "nota": 1,
+      "justificativa": "O candidato não demonstra possuir os diferenciais listados para a vaga, como experiência em startups, conhecimento em UX/UI, design thinking ou fluência em inglês."
+    },
+    "score_final_ponderado": 4,
+    "pontos_fortes": [
+      "Trabalho remoto compatível",
+      "Formação em tecnologia"
+    ],
+    "pontos_de_desenvolvimento": [
+      "Necessidade de experiência relevante em gestão de produtos",
+      "Desenvolver habilidades específicas para a posição de Product Manager",
+      "Aprimorar conhecimentos em ferramentas de gerenciamento de produtos e análise de dados"
+    ],
+    "perguntas_sugeridas": [
+      "Você possui experiência ou formação adicional em gestão de produtos que não foi mencionada?",
+      "Você tem conhecimento ou experiência em UX/UI ou design thinking?",
+      "Você é fluente em inglês?"
+    ]
+  }
+}
+2025-07-04 01:34:51,135 - {
+  "test_number": 43,
+  "resume_file": "curriculo_gerado_7_lucas.pdf",
+  "job_file": "vaga_6_completa_devops.txt",
+  "duration_seconds": 15.624411344528198,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 3,
+      "justificativa": "O candidato possui experiência em desenvolvimento com Ruby on Rails e práticas de teste, mas não demonstra experiência direta com as tecnologias essenciais mencionadas na vaga, como AWS, Kubernetes e ferramentas de CI/CD."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 6,
+      "justificativa": "Lucas tem experiência relevante em desenvolvimento para e-commerce, o que é benéfico para a vaga. No entanto, sua experiência é mais focada em desenvolvimento de software do que em DevOps, que é o foco principal da vaga."
+    },
+    "compatibilidade_geografica": {
+      "nota": 1,
+      "justificativa": "A vaga é para trabalho híbrido em Barueri, SP, enquanto o candidato está localizado em Florianópolis, SC, o que pode dificultar a logística para o trabalho presencial exigido."
+    },
+    "alinhamento_educacional": {
+      "nota": 10,
+      "justificativa": "Lucas possui graduação em Ciência da Computação pela Universidade Federal de Santa Catarina, o que está diretamente alinhado com os requisitos educacionais da vaga."
+    },
+    "valor_diferenciais": {
+      "nota": 2,
+      "justificativa": "O candidato não menciona possuir certificações em AWS ou conhecimento em ferramentas de monitoramento e logging, que são considerados diferenciais para a vaga."
+    },
+    "score_final_ponderado": 4,
+    "pontos_fortes": [
+      "Formação acadêmica alinhada com os requisitos da vaga",
+      "Experiência em desenvolvimento para e-commerce"
+    ],
+    "pontos_de_desenvolvimento": [
+      "Falta de experiência com tecnologias chave como AWS, Kubernetes e ferramentas de CI/CD",
+      "Localização geográfica não alinhada com a necessidade de trabalho híbrido"
+    ],
+    "perguntas_sugeridas": [
+      "Você tem experiência ou formação em tecnologias específicas como AWS, Kubernetes ou ferramentas de CI/CD?",
+      "Você estaria disposto a realocar-se para Barueri, SP, ou a viajar frequentemente para lá?"
+    ]
+  }
+}
+2025-07-04 01:35:10,914 - {
+  "test_number": 44,
+  "resume_file": "curriculo_gerado_8_ricardo.pdf",
+  "job_file": "vaga_7_completa_arquiteto(a).txt",
+  "duration_seconds": 19.778711080551147,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 9,
+      "justificativa": "O candidato possui experiência relevante como Arquiteto de Soluções, com foco em sistemas distribuídos e microserviços, que são essenciais para a vaga. No entanto, não há menção específica de experiência com AWS, Azure ou Google Cloud, que são requisitos essenciais da vaga."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 9,
+      "justificativa": "Ricardo possui uma sólida experiência como Arquiteto de Soluções e Desenvolvedor Sênior, com mais de 10 anos de experiência no campo, o que alinha bem com a exigência de experiência comprovada da vaga."
+    },
+    "compatibilidade_geografica": {
+      "nota": 10,
+      "justificativa": "A vaga é para trabalho remoto, portanto a localização geográfica de Ricardo em Campinas, SP não impacta sua capacidade de desempenhar as funções requeridas."
+    },
+    "alinhamento_educacional": {
+      "nota": 10,
+      "justificativa": "Ricardo possui graduação em Engenharia da Computação pela Universidade Estadual de Campinas, o que se alinha perfeitamente com os requisitos educacionais da vaga."
+    },
+    "valor_diferenciais": {
+      "nota": 6,
+      "justificativa": "Ricardo demonstra habilidades em liderança de equipes e otimização de performance, que são valorizadas, mas não possui as certificações específicas em plataformas de nuvem mencionadas como diferenciais na vaga."
+    },
+    "score_final_ponderado": 9,
+    "pontos_fortes": [
+      "Experiência relevante como Arquiteto de Soluções",
+      "Formação acadêmica alinhada com os requisitos",
+      "Capacidade de trabalho remoto"
+    ],
+    "pontos_de_desenvolvimento": [
+      "Aquisição de certificações específicas em plataformas de nuvem"
+    ],
+    "perguntas_sugeridas": [
+      "Você possui experiência ou certificações em AWS, Azure ou Google Cloud que não foram mencionadas no currículo?"
+    ]
+  }
+}
+2025-07-04 01:35:34,506 - {
+  "test_number": 45,
+  "resume_file": "curriculo_gerado_9_felipe.pdf",
+  "job_file": "vaga_8_completa_cientista.txt",
+  "duration_seconds": 23.591684103012085,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 2,
+      "justificativa": "O candidato possui experiência em desenvolvimento de aplicações Android e habilidades em Kotlin e Jetpack Compose, mas não demonstra conhecimento ou experiência em geoprocessamento, análise de dados geoespaciais, Python ou qualquer biblioteca relacionada à ciência de dados, que são essenciais para a vaga."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 2,
+      "justificativa": "Embora o candidato tenha experiência em desenvolvimento e gestão de projetos, sua experiência não está alinhada com as exigências específicas da vaga, que requerem experiência em geoprocessamento e análise de dados geoespaciais."
+    },
+    "compatibilidade_geografica": {
+      "nota": 1,
+      "justificativa": "A vaga é para trabalho híbrido em Campo Grande, MS, e o candidato está localizado em Recife, PE, o que pode representar um desafio logístico significativo para a adesão ao modelo de trabalho proposto."
+    },
+    "alinhamento_educacional": {
+      "nota": 8,
+      "justificativa": "O candidato possui uma graduação em Ciência da Computação, que é relevante para a vaga, embora a aplicação específica de suas habilidades não esteja diretamente alinhada com as necessidades do cargo."
+    },
+    "valor_diferenciais": {
+      "nota": 1,
+      "justificativa": "O candidato não demonstrou possuir conhecimentos ou experiências listadas como diferenciais para a vaga, como ferramentas de visualização de dados, experiência no setor de agronegócio ou técnicas de Big Data."
+    },
+    "score_final_ponderado": 2,
+    "pontos_fortes": [
+      "Formação em Ciência da Computação"
+    ],
+    "pontos_de_desenvolvimento": [
+      "Falta de experiência e habilidades técnicas específicas para a vaga",
+      "Necessidade de realocação ou ajuste ao modelo de trabalho híbrido"
+    ],
+    "perguntas_sugeridas": [
+      "Você tem experiência ou formação em geoprocessamento ou análise de dados geoespaciais?",
+      "Você estaria disposto a se realocar para Campo Grande, MS ou a viajar frequentemente?"
+    ]
+  }
+}
+2025-07-04 01:35:48,058 - Erro no teste #46 (cv_dilema_geo.pdf vs vaga_9_completa_desenvolvedor.txt): 500 Server Error: Internal Server Error for url: http://127.0.0.1:8000/analisar_curriculo
+2025-07-04 01:36:03,925 - {
+  "test_number": 47,
+  "resume_file": "cv_generalista.pdf",
+  "job_file": "vaga_backend_especialista.txt",
+  "duration_seconds": 15.86665940284729,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 7,
+      "justificativa": "A candidata possui experiência com Python e PostgreSQL, que são essenciais para a vaga. No entanto, não há menção de experiência com frameworks assíncronos específicos como FastAPI ou Starlette, nem com arquitetura orientada a eventos e mensageria, que são requisitos importantes para a posição."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 8,
+      "justificativa": "Fernanda tem experiência relevante como desenvolvedora Full-Stack usando Python, o que é altamente relevante para a vaga de Engenheiro de Backend. Ela também tem experiência com PostgreSQL e gerenciamento de servidores, o que complementa bem os requisitos da vaga."
+    },
+    "compatibilidade_geografica": {
+      "nota": 10,
+      "justificativa": "A vaga é para trabalho remoto, portanto a localização geográfica de Fernanda não impacta sua capacidade de ocupar a posição."
+    },
+    "alinhamento_educacional": {
+      "nota": 0,
+      "justificativa": "Não há informações sobre a educação formal de Fernanda, o que torna impossível avaliar o alinhamento educacional com os requisitos da vaga."
+    },
+    "valor_diferenciais": {
+      "nota": 5,
+      "justificativa": "Fernanda demonstra habilidades em tecnologias complementares como Docker, que são úteis, mas não há evidências de conhecimento em tecnologias diferenciadas especificamente pedidas na vaga, como mensageria (Kafka/RabbitMQ)."
+    },
+    "score_final_ponderado": 7,
+    "pontos_fortes": [
+      "Experiência com Python e PostgreSQL.",
+      "Experiência em desenvolvimento Full-Stack.",
+      "Habilidades em tecnologias complementares como Docker."
+    ],
+    "pontos_de_desenvolvimento": [
+      "Falta de formação educacional especificada.",
+      "Falta de experiência com frameworks assíncronos e arquitetura orientada a eventos especificados na vaga."
+    ],
+    "perguntas_sugeridas": [
+      "Pode fornecer detalhes sobre sua formação educacional?",
+      "Tem experiência com frameworks assíncronos como FastAPI ou Starlette?",
+      "Tem experiência com arquitetura orientada a eventos e mensageria?"
+    ]
+  }
+}
+2025-07-04 01:36:21,705 - {
+  "test_number": 48,
+  "resume_file": "cv_qualquer_local.pdf",
+  "job_file": "vaga_dados_junior.txt",
+  "duration_seconds": 17.779930114746094,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 7,
+      "justificativa": "O candidato possui conhecimento sólido em SQL, que é um requisito essencial para a vaga. No entanto, não há evidências de experiência com Python ou R, nem com ferramentas de BI como Power BI, Tableau ou Looker, que são também requisitos importantes para a posição."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 6,
+      "justificativa": "Bruno possui experiência como Desenvolvedor Java, o que envolve análise de dados e modelagem com SQL. Embora relevante, essa experiência é indiretamente relacionada ao cargo de Analista de Dados, que geralmente requer uma abordagem mais focada em análise de dados e BI."
+    },
+    "compatibilidade_geografica": {
+      "nota": 1,
+      "justificativa": "A vaga é para trabalho híbrido no Rio de Janeiro, RJ, enquanto o candidato está localizado em Curitiba, PR. A diferença geográfica pode ser um obstáculo para o cumprimento do requisito de presença física parcial."
+    },
+    "alinhamento_educacional": {
+      "nota": 0,
+      "justificativa": "Não há informações sobre a educação do candidato no currículo fornecido. Portanto, não é possível avaliar a relevância de sua formação para a vaga, que prefere candidatos formados ou cursando áreas de Exatas ou Tecnologia."
+    },
+    "valor_diferenciais": {
+      "nota": 0,
+      "justificativa": "Não há evidências no currículo de Bruno que indiquem a posse de habilidades ou experiências listadas como diferenciais para a vaga."
+    },
+    "score_final_ponderado": 3,
+    "pontos_fortes": [
+      "Experiência com SQL, que é essencial para a vaga."
+    ],
+    "pontos_de_desenvolvimento": [
+      "Falta de experiência com linguagens de programação específicas para análise de dados (Python, R).",
+      "Falta de experiência com ferramentas de BI.",
+      "Necessidade de esclarecer a formação educacional."
+    ],
+    "perguntas_sugeridas": [
+      "Pode fornecer detalhes sobre sua formação acadêmica?",
+      "Você tem experiência com Python, R ou ferramentas de BI como Power BI, Tableau ou Looker?"
+    ]
+  }
+}
+2025-07-04 01:36:38,971 - {
+  "test_number": 49,
+  "resume_file": "cv_quase_perfeito.pdf",
+  "job_file": "vaga_dados_presencial.txt",
+  "duration_seconds": 17.265613079071045,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 7,
+      "justificativa": "Carolina possui experiência com Python e SQL, que são essenciais para a vaga. No entanto, não há menção específica sobre sua experiência com bibliotecas de machine learning como Scikit-learn ou TensorFlow, que são cruciais para a posição de Cientista de Dados."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 8,
+      "justificativa": "Carolina tem uma sólida experiência em desenvolvimento e liderança técnica em tecnologias relevantes, embora sua experiência esteja mais focada em backend e arquitetura de sistemas do que especificamente em ciência de dados."
+    },
+    "compatibilidade_geografica": {
+      "nota": 0,
+      "justificativa": "A vaga é para trabalho presencial em Florianópolis, SC, e Carolina está localizada em São Paulo, SP, o que indica uma incompatibilidade geográfica significativa."
+    },
+    "alinhamento_educacional": {
+      "nota": 8,
+      "justificativa": "Carolina possui um bacharelado em Sistemas de Informação pela USP, uma formação relevante que fornece uma base sólida em tecnologia e sistemas, embora não seja especificamente focada em ciência de dados."
+    },
+    "valor_diferenciais": {
+      "nota": 5,
+      "justificativa": "Carolina possui habilidades em várias tecnologias que podem ser úteis, como Docker, Kubernetes e AWS, mas não há menção de habilidades ou experiências que sejam consideradas diferenciais específicos para a vaga de Cientista de Dados."
+    },
+    "score_final_ponderado": 5,
+    "pontos_fortes": [
+      "Experiência sólida em desenvolvimento e liderança técnica",
+      "Formação em uma instituição de renome",
+      "Diversidade de habilidades tecnológicas"
+    ],
+    "pontos_de_desenvolvimento": [
+      "Falta de experiência específica com bibliotecas de machine learning",
+      "Incompatibilidade geográfica para o trabalho presencial"
+    ],
+    "perguntas_sugeridas": [
+      "Você tem experiência com bibliotecas de machine learning como Scikit-learn ou TensorFlow?",
+      "Você estaria disposto a se mudar para Florianópolis para a posição?"
+    ]
+  }
+}
+2025-07-04 01:36:54,143 - {
+  "test_number": 50,
+  "resume_file": "cv_transicao_carreira.pdf",
+  "job_file": "vaga_java_especialista.txt",
+  "duration_seconds": 15.171245574951172,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 0,
+      "justificativa": "O candidato não possui experiência ou habilidades em Java, Spring Boot, ou qualquer outra tecnologia essencial mencionada na descrição da vaga. As habilidades listadas são focadas em marketing e análise de dados, não em desenvolvimento backend."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 0,
+      "justificativa": "A experiência do candidato é em marketing digital e não em desenvolvimento de software, o que não corresponde aos requisitos de experiência em desenvolvimento Java e tecnologias relacionadas exigidos pela vaga."
+    },
+    "compatibilidade_geografica": {
+      "nota": 1,
+      "justificativa": "A vaga é para trabalho híbrido em São Paulo, SP, enquanto o candidato está localizado no Rio de Janeiro, RJ. Isso pode representar um desafio logístico significativo para a compatibilidade geográfica."
+    },
+    "alinhamento_educacional": {
+      "nota": 0,
+      "justificativa": "A formação do candidato em Comunicação Social - Publicidade não é relevante para a posição de Especialista Backend Java, que geralmente requer formação em áreas de TI ou Engenharia."
+    },
+    "valor_diferenciais": {
+      "nota": 0,
+      "justificativa": "O candidato não possui os diferenciais mencionados, como inglês avançado ou experiência em liderança técnica, que seriam considerados um plus para a vaga."
+    },
+    "score_final_ponderado": 0,
+    "pontos_fortes": [],
+    "pontos_de_desenvolvimento": [
+      "O candidato precisa desenvolver habilidades técnicas específicas para desenvolvimento backend em Java e tecnologias relacionadas, bem como adquirir experiência relevante na área de TI.",
+      "É recomendável que o candidato busque formação ou certificações em áreas de TI para alinhar melhor sua educação com as exigências do mercado de tecnologia."
+    ],
+    "perguntas_sugeridas": [
+      "Você tem interesse em transição de carreira para o setor de tecnologia?",
+      "Você possui alguma experiência ou formação em desenvolvimento de software que não foi listada?"
+    ]
+  }
+}

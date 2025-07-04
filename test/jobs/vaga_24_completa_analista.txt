@@ -1,0 +1,39 @@
+**Vaga: Analista de Infraestrutura Cloud Pleno (Azure)**  
+**Empresa: Energia Verde S/A**  
+**Localização: Rio de Janeiro, RJ**  
+**Modalidade: Híbrido**
+
+---
+
+### Descrição da Empresa
+A Energia Verde S/A é uma empresa inovadora no setor de energia, dedicada a fornecer soluções sustentáveis e eficientes para o mercado brasileiro. Com uma forte ênfase em tecnologias de ponta e práticas sustentáveis, nossa missão é transformar a forma como a energia é gerada e consumida, promovendo um futuro mais verde para todos. Buscamos profissionais que compartilhem nossa paixão por inovação e queiram fazer parte de um time dinâmico e colaborativo.
+
+### Responsabilidades
+- Gerenciar e otimizar a infraestrutura de cloud da empresa, com foco na plataforma Azure.
+- Implementar e monitorar soluções de segurança e conformidade em ambientes de cloud.
+- Colaborar com as equipes de desenvolvimento para garantir a integração contínua e a entrega de aplicações em ambientes de cloud.
+- Realizar a gestão de incidentes e mudanças, garantindo a continuidade dos serviços de infraestrutura.
+- Auxiliar na capacitação e suporte técnico para as equipes internas sobre ferramentas e práticas de cloud.
+- Participar de projetos de migração de sistemas legados para a nuvem, assegurando a máxima eficiência e segurança.
+- Elaborar documentação técnica e relatórios sobre a performance e utilização dos serviços em cloud.
+
+### Requisitos Essenciais
+- Graduação completa em Ciência da Computação, Engenharia de Sistemas ou áreas correlatas.
+- Experiência prévia de pelo menos 3 anos em infraestrutura de cloud, com foco em Microsoft Azure.
+- Certificações relevantes em Azure (como Azure Administrator, Azure Solutions Architect) são um diferencial.
+- Sólidos conhecimentos em redes, segurança da informação e gerenciamento de sistemas.
+- Habilidade em scripts e automação de processos (PowerShell, Azure CLI, etc.).
+- Capacidade de trabalhar em equipe e boa comunicação.
+
+### Diferenciais
+- Experiência em ambientes de energia ou utilidades.
+- Conhecimento em outras plataformas de cloud (AWS, Google Cloud).
+- Certificações em ITIL ou práticas ágeis.
+- Vivência em metodologias DevOps e CI/CD.
+- Fluência em inglês será considerada um diferencial.
+
+---
+
+Se você é um profissional apaixonado por tecnologia e deseja contribuir para um futuro sustentável, junte-se a nós! Para se candidatar, envie seu currículo e uma carta de apresentação para [email@energia-verde.com]. 
+
+**Venha fazer parte da transformação da energia no Brasil!**

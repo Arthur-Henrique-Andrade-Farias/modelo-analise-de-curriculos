@@ -1,0 +1,37 @@
+**Vaga: Desenvolvedor Frontend Júnior**  
+**Empresa: Criativa Digital**  
+**Localização: Porto Alegre, RS**  
+**Modalidade: Presencial**  
+
+---
+
+### Descrição da Empresa
+
+A Criativa Digital é uma agência de publicidade inovadora, localizada em Porto Alegre, que se destaca pela sua abordagem criativa e estratégica em marketing digital. Com uma equipe apaixonada e diversificada, buscamos constantemente novas formas de conectar marcas e consumidores, entregando soluções personalizadas que geram resultados reais. Se você é alguém que ama tecnologia e deseja crescer em um ambiente dinâmico e colaborativo, a Criativa Digital é o lugar certo para você!
+
+### Responsabilidades
+
+- Desenvolver e manter interfaces de usuário utilizando React e TypeScript, assegurando a melhor experiência possível para os usuários.
+- Colaborar com equipes de design e backend para implementar soluções que atendam às necessidades dos clientes.
+- Participar de reuniões de planejamento e revisão, contribuindo com ideias e sugestões para melhoria contínua dos projetos.
+- Realizar testes e debugging para assegurar a qualidade do código desenvolvido.
+- Manter-se atualizado sobre as novas tendências e melhores práticas em desenvolvimento frontend.
+
+### Requisitos Essenciais
+
+- Formação em Ciência da Computação, Análise de Sistemas ou áreas relacionadas, ou experiência prática equivalente.
+- Conhecimento básico em React e TypeScript.
+- Familiaridade com HTML5, CSS3 e conceitos de design responsivo.
+- Capacidade de trabalhar em equipe e comunicar-se efetivamente.
+- Desejo de aprender e se desenvolver profissionalmente na área de desenvolvimento frontend.
+
+### Diferenciais
+
+- Experiência prévia em projetos acadêmicos ou profissionais utilizando React e TypeScript.
+- Conhecimento em ferramentas de versionamento de código como Git.
+- Noções de UX/UI e como aplicar esses princípios no desenvolvimento frontend.
+- Interesse por marketing digital e publicidade.
+
+---
+
+Se você está pronto para dar o próximo passo na sua carreira e se juntar a uma equipe que valoriza a criatividade e a inovação, envie seu currículo e portfólio para nós. Estamos ansiosos para conhecer você e explorar como você pode contribuir com a Criativa Digital!

@@ -1,0 +1,40 @@
+2025-07-04 01:52:35,500 - {
+  "test_name": "Re-teste #17",
+  "status": "SUCESSO (RE-EXECUÇÃO)",
+  "duration_seconds": 20.177058696746826,
+  "full_response": {
+    "aderencia_tecnica": {
+      "nota": 8,
+      "justificativa": "O candidato possui experiência relevante em análise de dados e uso de BigQuery, que é uma habilidade técnica importante para a vaga. No entanto, não há menção explícita ao uso de Python ou R, que são requisitos essenciais para a posição."
+    },
+    "compatibilidade_experiencia": {
+      "nota": 9,
+      "justificativa": "Luiz Carlos tem uma experiência robusta em análise de dados e infraestrutura de cloud, que são diretamente aplicáveis às responsabilidades descritas na vaga. Sua experiência como Engenheiro de Cloud Sênior e Analista de Cloud demonstra um alto nível de competência e relevância para o estágio."
+    },
+    "compatibilidade_geografica": {
+      "nota": 1,
+      "justificativa": "A vaga é para trabalho híbrido em São Paulo, SP, enquanto o candidato está localizado em Belo Horizonte, MG. Isso pode representar um desafio logístico significativo para a aderência ao modelo de trabalho proposto."
+    },
+    "alinhamento_educacional": {
+      "nota": 9,
+      "justificativa": "O candidato possui formação em Engenharia de Sistemas pela Universidade Federal de Minas Gerais, que é altamente relevante para a vaga de estágio em Ciência de Dados, considerando a natureza técnica e analítica do curso."
+    },
+    "valor_diferenciais": {
+      "nota": 7,
+      "justificativa": "Luiz Carlos possui experiência com BigQuery e análise de dados, que são mencionados como diferenciais na descrição da vaga. No entanto, não há evidências de experiência com machine learning ou estatística avançada, que também são valorizados como diferenciais."
+    },
+    "score_final_ponderado": 6,
+    "pontos_fortes": [
+      "Experiência robusta em análise de dados e infraestrutura de cloud",
+      "Formação relevante em Engenharia de Sistemas"
+    ],
+    "pontos_de_desenvolvimento": [
+      "Falta de experiência com Python ou R, que são essenciais para a vaga",
+      "Localização geográfica incompatível com o modelo de trabalho híbrido"
+    ],
+    "perguntas_sugeridas": [
+      "Você tem experiência com Python ou R?",
+      "Você estaria disposto a se realocar para São Paulo ou tem planos para isso?"
+    ]
+  }
+}

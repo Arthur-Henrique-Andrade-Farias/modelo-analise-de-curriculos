@@ -1,0 +1,34 @@
+**Vaga: Estágio em Desenvolvimento de Software**  
+**Empresa: TechGlobal Solutions**  
+**Localização: Campinas, SP**  
+**Modalidade: Presencial**  
+
+---
+
+### Descrição da Empresa
+A TechGlobal Solutions é uma multinacional líder em inovação tecnológica, dedicada a fornecer soluções de software de ponta para empresas em todo o mundo. Com uma cultura organizacional que valoriza a criatividade e o aprendizado contínuo, oferecemos um ambiente dinâmico onde nossos colaboradores podem desenvolver suas habilidades e crescer profissionalmente. Estamos à procura de talentos apaixonados por tecnologia para se juntarem à nossa equipe em Campinas, SP.
+
+### Responsabilidades
+- Auxiliar no desenvolvimento e manutenção de software, colaborando com a equipe em projetos reais.
+- Participar de reuniões de planejamento e brainstorming para entender as necessidades dos usuários e as especificações dos projetos.
+- Realizar testes de software e contribuir para a correção de bugs, garantindo a qualidade do produto final.
+- Colaborar com outros desenvolvedores e equipes multidisciplinares para a implementação de novas funcionalidades.
+- Documentar processos e manter atualizados os registros de desenvolvimento.
+- Acompanhar tendências tecnológicas e contribuir com ideias inovadoras para melhoria contínua dos processos.
+
+### Requisitos Essenciais
+- Estar cursando Engenharia da Computação, Ciência da Computação ou áreas correlatas, com previsão de conclusão em até 2 anos.
+- Conhecimento básico em pelo menos uma linguagem de programação (Java, Python, C#, entre outras).
+- Familiaridade com conceitos de desenvolvimento ágil e metodologias como Scrum ou Kanban.
+- Habilidade de comunicação e trabalho em equipe.
+- Desejo de aprender e se desenvolver na área de tecnologia.
+
+### Diferenciais
+- Experiência prévia em projetos acadêmicos ou pessoais na área de desenvolvimento de software.
+- Conhecimento em bancos de dados (SQL ou NoSQL).
+- Familiaridade com ferramentas de controle de versão, como Git.
+- Participação em hackathons ou competições de programação.
+
+---
+
+Se você é um estudante apaixonado por tecnologia e busca uma oportunidade de crescimento em um ambiente desafiador, inscreva-se agora mesmo e venha fazer parte da nossa equipe na TechGlobal Solutions!

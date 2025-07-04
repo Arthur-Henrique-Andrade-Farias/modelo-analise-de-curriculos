@@ -1,0 +1,38 @@
+**Vaga: Arquiteto(a) de Soluções Cloud**  
+**Empresa: TechWave Consultoria de TI**  
+**Localização: Belo Horizonte, MG**  
+**Modalidade: Remoto**
+
+---
+
+### Descrição da Empresa
+A TechWave Consultoria de TI é uma empresa inovadora e em crescimento, especializada em soluções tecnológicas para empresas de diversos setores. Nossa missão é transformar desafios em oportunidades por meio de serviços de consultoria e implementação de tecnologias de ponta. Valorizamos a colaboração, a criatividade e a excelência em todos os nossos projetos, e estamos em busca de profissionais apaixonados por tecnologia e inovação para se juntarem à nossa equipe.
+
+### Responsabilidades
+- Projetar e implementar soluções em nuvem que atendam às necessidades dos nossos clientes, considerando escalabilidade, segurança e eficiência.
+- Colaborar com equipes multidisciplinares para entender os requisitos do cliente e traduzir essas demandas em soluções técnicas robustas.
+- Avaliar e recomendar serviços e ferramentas em nuvem, incluindo AWS, Azure e Google Cloud, para otimizar custos e performance.
+- Realizar a arquitetura de sistemas, garantindo a integração entre aplicações e serviços em nuvem.
+- Participar ativamente de reuniões com clientes, apresentando propostas técnicas e esclarecendo dúvidas sobre as soluções propostas.
+- Monitorar e otimizar o desempenho das soluções implantadas, garantindo a continuidade e a qualidade do serviço prestado.
+- Documentar processos e arquiteturas desenvolvidas, promovendo boas práticas de desenvolvimento e operação.
+
+### Requisitos Essenciais
+- Graduação em Ciência da Computação, Engenharia de Software ou áreas correlatas.
+- Experiência comprovada como Arquiteto(a) de Soluções Cloud, com foco em AWS, Azure ou Google Cloud.
+- Sólidos conhecimentos em arquitetura de sistemas, microserviços e contêineres (Docker, Kubernetes).
+- Habilidade em definir e implementar políticas de segurança em ambientes de nuvem.
+- Experiência em metodologias ágeis e trabalho em equipe colaborativo.
+- Boa comunicação e capacidade de explicar conceitos técnicos a públicos não técnicos.
+
+### Diferenciais
+- Certificações em plataformas de nuvem (AWS Certified Solutions Architect, Microsoft Certified: Azure Solutions Architect, Google Cloud Professional Cloud Architect).
+- Conhecimento em DevOps e automação de processos de infraestrutura.
+- Experiência em projetos de migração para a nuvem.
+- Familiaridade com ferramentas de monitoramento e gestão de performance em nuvem.
+
+---
+
+Se você é um(a) profissional apaixonado(a) por tecnologia e busca uma oportunidade para aplicar suas habilidades em um ambiente desafiador e colaborativo, encorajamos você a se candidatar. Junte-se à TechWave e ajude-nos a moldar o futuro da tecnologia em nuvem!
+
+**Como se candidatar:** Envie seu currículo e carta de apresentação para [email@techwave.com.br] com o assunto "Vaga Arquiteto(a) de Soluções Cloud".

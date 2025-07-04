@@ -1,0 +1,33 @@
+**Vaga: Analista de QA - Automação de Testes Mobile (Appium)**  
+**Empresa: DigitalBank Solutions**  
+**Localização: São Paulo, SP**  
+**Modalidade: Híbrido**  
+
+**Descrição da Empresa:**  
+A DigitalBank Solutions é um banco digital inovador que tem como missão transformar a experiência bancária dos nossos clientes por meio de tecnologia de ponta e soluções financeiras acessíveis. Com uma equipe de profissionais talentosos e apaixonados pelo que fazem, estamos em constante crescimento e buscamos pessoas que compartilhem nossa visão de um futuro financeiro mais inclusivo e digital. 
+
+**Responsabilidades:**  
+- Desenvolver, implementar e manter testes automatizados para aplicações mobile utilizando Appium.
+- Colaborar com as equipes de desenvolvimento e produto para entender os requisitos e definir critérios de aceitação.
+- Identificar, registrar e acompanhar bugs e problemas encontrados durante os testes, garantindo a qualidade das entregas.
+- Criar e manter documentação técnica relacionada aos testes automatizados.
+- Participar das reuniões de planejamento e retrospectivas, contribuindo com insights para a melhoria contínua dos processos de QA.
+- Realizar testes manuais quando necessário, garantindo a cobertura total das funcionalidades do aplicativo.
+- Monitorar e reportar métricas de qualidade dos testes, propondo melhorias quando necessário.
+
+**Requisitos Essenciais:**  
+- Experiência comprovada em automação de testes mobile, especialmente com a ferramenta Appium.
+- Conhecimento em linguagens de programação como Java, Python ou JavaScript.
+- Familiaridade com ferramentas de versionamento de código, como Git.
+- Capacidade de trabalhar em equipe e boa comunicação.
+- Conhecimento em metodologias ágeis (Scrum/Kanban).
+- Formação em Ciência da Computação, Engenharia de Software ou áreas relacionadas.
+
+**Diferenciais:**  
+- Experiência prévia em ambientes bancários ou financeiros.
+- Certificações em testes de software (ISTQB, por exemplo).
+- Conhecimento de outras ferramentas de automação de testes, como Selenium ou Cypress.
+- Experiência com CI/CD e ferramentas de integração contínua.
+- Habilidades em análise de dados e identificação de tendências.
+
+Se você é apaixonado por qualidade e inovação, e deseja fazer parte de uma equipe dinâmica em um ambiente desafiador, envie seu currículo e venha transformar o futuro financeiro conosco!

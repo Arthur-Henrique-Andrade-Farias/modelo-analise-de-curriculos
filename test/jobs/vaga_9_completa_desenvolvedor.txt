@@ -1,0 +1,36 @@
+**Nome da Vaga:** Desenvolvedor iOS Sênior (Swift)  
+**Nome da Empresa:** FoodieTech  
+**Localização:** 100% Remoto  
+**Modalidade:** Remota  
+
+---
+
+### Descrição da Empresa
+A FoodieTech é uma startup inovadora no setor de delivery de comida, dedicada a proporcionar uma experiência excepcional para os amantes da gastronomia. Nossa missão é conectar restaurantes locais a clientes através de uma plataforma intuitiva e eficiente. Com uma equipe apaixonada e comprometida, buscamos constantemente melhorar nossos serviços e expandir nossa presença no mercado. Se você é um profissional dinâmico, criativo e que busca fazer parte de um time que valoriza a inovação e a colaboração, venha fazer parte da nossa jornada!
+
+### Responsabilidades
+- Desenvolver e manter aplicações iOS utilizando Swift, garantindo a melhor performance e usabilidade.
+- Colaborar com equipes multifuncionais, incluindo designers e outros desenvolvedores, para criar soluções que atendam às necessidades dos usuários.
+- Participar de reuniões ágeis, contribuindo para a melhoria contínua dos processos de desenvolvimento.
+- Realizar testes e depuração de aplicações, assegurando a qualidade do código e a experiência do usuário.
+- Manter-se atualizado com as novas tecnologias e tendências de desenvolvimento iOS, implementando melhorias sempre que possível.
+- Documentar o código e garantir que as melhores práticas de desenvolvimento sejam seguidas.
+
+### Requisitos Essenciais
+- Experiência comprovada como Desenvolvedor iOS, com foco em Swift (mínimo de 5 anos).
+- Conhecimento sólido em padrões de arquitetura de software, como MVVM e MVC.
+- Familiaridade com ferramentas de controle de versão, como Git.
+- Experiência em integração de APIs RESTful e desenvolvimento de interfaces responsivas.
+- Capacidade de trabalhar de forma autônoma e em equipe, com boa comunicação e habilidades interpessoais.
+- Inglês fluente para leitura de documentação técnica e comunicação com equipes internacionais.
+
+### Diferenciais
+- Experiência anterior em empresas de tecnologia focadas em delivery ou e-commerce.
+- Conhecimento em frameworks de teste como XCTest ou Quick.
+- Familiaridade com metodologias ágeis como Scrum ou Kanban.
+- Contribuições para projetos open-source ou desenvolvimento de aplicativos disponíveis na App Store.
+- Certificações em desenvolvimento de software ou áreas relacionadas.
+
+---
+
+Se você está pronto para um novo desafio e deseja crescer em um ambiente de inovação, envie seu currículo e venha fazer parte da equipe FoodieTech!

@@ -49,24 +49,31 @@ def gerar_contexto_vaga(persona_vaga: str, completo: bool = True) -> str:
     return vaga_gerada.content
 
 def salvar_texto_em_arquivo(texto: str, filename: str):
-    """Salva um texto em um arquivo .txt."""
-    if not os.path.exists("vagas_geradas"):
-        os.makedirs("vagas_geradas")
+    """Salva um texto na pasta de destino 'test/jobs', relativa à estrutura do projeto."""
+    
+    script_path = os.path.abspath(__file__)
+    
+    project_root = os.path.dirname(os.path.dirname(script_path))
+    
+    target_dir = os.path.join(project_root, 'test', 'jobs')
+    
+    if not os.path.exists(target_dir):
+        os.makedirs(target_dir)
         
-    filepath = os.path.join("vagas_geradas", filename)
+    filepath = os.path.join(target_dir, filename)
     
     with open(filepath, "w", encoding="utf-8") as f:
         f.write(texto)
+        
     print(f"✅ Vaga salva com sucesso em: '{filepath}'")
 
 
 if __name__ == "__main__":
     vagas_para_gerar = [
-        {'persona': "Analista de Segurança da Informação Júnior, para uma consultoria em Brasília-DF", 'completo': True},
-        {'persona': "Vaga de 'Ninja/Rockstar Developer' para uma startup de fintech, com descrição vaga e empolgada", 'completo': False},
-        {'persona': "Engenheiro de Machine Learning Pleno, focado em recomendação para e-commerce, trabalho remoto", 'completo': True},
-        {'persona': "Vaga de Gerente de Projetos, mas sem clareza se é para TI ou para outra área da empresa e local a definir", 'completo': False},
-        {'persona': "Analista de BI Sênior para uma grande rede de varejo em São Paulo, SP (Híbrido)", 'completo': True}
+        {
+        'persona': "Engenheiro(a) de Suporte Técnico Pleno/Sênior para uma empresa de SaaS (Software as a Service) B2B, em Curitiba, PR (Híbrido)", 
+        'completo': True
+        }
     ]
 
     print("🚀 Iniciando o Bot Gerador de Vagas...\n")

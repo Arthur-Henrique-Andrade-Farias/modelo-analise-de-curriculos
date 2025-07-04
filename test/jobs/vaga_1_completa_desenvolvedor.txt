@@ -1,0 +1,32 @@
+**Nome da Vaga:** Desenvolvedor Backend Pleno (Golang)  
+**Nome da Empresa:** FinPay Solutions  
+**Localização:** São Paulo, SP  
+**Modalidade:** Híbrido  
+
+### Descrição da Empresa
+A FinPay Solutions é uma fintech inovadora que transforma a maneira como as pessoas e empresas realizam transações financeiras. Com uma equipe dedicada e apaixonada, buscamos proporcionar soluções de pagamento seguras, rápidas e eficientes. Estamos em constante evolução e crescimento, sempre em busca de novos talentos para se juntarem a nós nessa jornada. Se você é um profissional que valoriza a inovação e a colaboração, venha fazer parte do nosso time!
+
+### Responsabilidades
+- Desenvolver e manter aplicações backend utilizando a linguagem Go (Golang) em um ambiente de microsserviços.
+- Colaborar com equipes multidisciplinares para projetar, implementar e otimizar soluções escaláveis e seguras.
+- Participar ativamente do ciclo de vida de desenvolvimento de software, contribuindo com código de alta qualidade e documentação adequada.
+- Realizar testes de performance e segurança nas aplicações desenvolvidas.
+- Identificar e resolver problemas de forma proativa, visando a melhoria contínua dos sistemas.
+- Contribuir com sugestões para a arquitetura e design das aplicações, buscando sempre melhores práticas e tecnologias emergentes.
+
+### Requisitos Essenciais
+- Experiência comprovada em desenvolvimento backend, preferencialmente com Go (Golang).
+- Conhecimento sólido em arquitetura de microsserviços e desenvolvimento ágil.
+- Familiaridade com bancos de dados relacionais e não-relacionais.
+- Experiência em APIs RESTful e integração de sistemas.
+- Habilidade de trabalhar em equipe e boa comunicação.
+- Proatividade na resolução de problemas e desejo de aprender e se desenvolver profissionalmente.
+
+### Diferenciais
+- Experiência prévia em fintechs ou empresas do setor financeiro.
+- Conhecimento em contêineres (Docker) e orquestração (Kubernetes).
+- Experiência com práticas de DevOps e CI/CD.
+- Contribuições para projetos de código aberto ou participação em comunidades de tecnologia.
+- Certificações relevantes na área de desenvolvimento e engenharia de software.
+
+Se você está em busca de um novo desafio e deseja crescer em um ambiente dinâmico e inovador, envie seu currículo para nós! Na FinPay Solutions, a sua carreira é importante, e estamos prontos para apoiá-lo(a) em sua jornada.

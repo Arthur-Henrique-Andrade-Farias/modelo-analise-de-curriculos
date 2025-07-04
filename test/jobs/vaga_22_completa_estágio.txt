@@ -1,0 +1,33 @@
+**Nome da Vaga:** Estágio em Ciência de Dados  
+**Nome da Empresa:** Seguradora NovaVida  
+**Localização:** São Paulo, SP  
+**Modalidade:** Híbrido  
+
+---
+
+### Descrição da Empresa
+A Seguradora NovaVida é uma empresa inovadora no setor de seguros, comprometida em oferecer soluções personalizadas e eficazes para nossos clientes. Com uma equipe multidisciplinar e apaixonada, buscamos transformar dados em insights valiosos, garantindo um atendimento de excelência e contribuindo para a segurança e bem-estar de nossos segurados. Estamos em busca de um Estagiário em Ciência de Dados para integrar nossa equipe e ajudar a impulsionar nossas iniciativas de análise de dados.
+
+### Responsabilidades
+- Auxiliar na coleta, tratamento e análise de dados provenientes de diversas fontes internas e externas;
+- Colaborar na construção de dashboards e relatórios para apoiar a tomada de decisões estratégicas da empresa;
+- Participar da modelagem de dados e implementação de algoritmos de machine learning para otimização dos processos de negócios;
+- Apoiar na realização de estudos estatísticos e predições que possam contribuir para a melhoria dos produtos oferecidos pela seguradora;
+- Trabalhar em conjunto com outras equipes, como Marketing e Atendimento ao Cliente, para identificar oportunidades de melhorias através da análise de dados.
+
+### Requisitos Essenciais
+- Estar cursando graduação em Ciência de Dados, Estatística, Matemática, Engenharia, Sistemas de Informação ou áreas correlatas;
+- Conhecimento em linguagens de programação como Python ou R;
+- Familiaridade com ferramentas de visualização de dados, como Tableau, Power BI ou similares;
+- Boa capacidade analítica e atenção aos detalhes;
+- Desejo de aprender e se desenvolver na área de ciência de dados.
+
+### Diferenciais
+- Experiência prévia em estágios ou projetos acadêmicos relacionados à análise de dados;
+- Conhecimento em bancos de dados SQL e NoSQL;
+- Familiaridade com técnicas de machine learning e estatística avançada;
+- Proatividade e habilidade para trabalhar em equipe.
+
+---
+
+Se você é apaixonado por dados e deseja fazer parte de uma equipe inovadora, não perca essa oportunidade! Envie seu currículo para [email@novavida.com.br] e venha construir o futuro dos seguros com a Seguradora NovaVida.
